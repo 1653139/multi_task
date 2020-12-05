@@ -1,0 +1,4594 @@
+We * - *
+show * - *
+here * - *
+that * - *
+in * - *
+addition * - *
+to * - *
+sigma * - *
+s * - *
+, * - *
+the * - *
+global * - *
+regulators * - *
+Lrp (PTE*) - (A0*)
+, * - *
+cyclic * - *
+AMP * - *
+( * - *
+cAMP * - *
+) * - *
+receptor * - *
+protein-cAMP * - *
+complex * - *
+( * - *
+cAMP-CRP (PTE*) - *
+) * - *
+, * - *
+and * - *
+integration * - *
+host * - *
+factor * - *
+( * - *
+IHF (PTE*) - *
+) * - *
+are * - *
+involved * involve (V*)
+in * - *
+the (PRC* - (A4*
+control *) - *)
+of * - *
+osmY * - *
+. * - *
+
+Use * - *
+of * - *
+gene (EXP* - *
+fusions *) - *
+to * - *
+study * - *
+expression * express (V*)
+of * - *
+cysB (DNA*) - (A0*)
+, * - *
+the * - *
+regulatory * - *
+gene * - *
+of * - *
+the * - *
+cysteine * - *
+regulon * - *
+. * - *
+
+The * - *
+regulation * regulation (V*)
+of * - *
+the (DNA* - (A0*
+two * - *
+divergent * - *
+promoters *) - *)
+is * - *
+thus * - *
+simultaneously * - *
+controlled * - *
+not * - *
+only * - *
+by * - *
+the (PTE* - *
+cAMP-CAP * - *
+complex *) - *
+, * - *
+a * - *
+global * - *
+regulator * - *
+, * - *
+but * - *
+also * - *
+by * - *
+a (PTE* - *
+specific * - *
+regulator *) - *
+of * - *
+arginine * - *
+metabolism * - *
+, * - *
+suggesting * - *
+a * - *
+previously * - *
+unsuspected * - *
+link * - *
+between * - *
+carbon * - *
+metabolism * - *
+and * - *
+translation * - *
+initiation * - *
+. * - *
+
+The (DNA* - (A1*
+fadL * - *
+gene *) - *)
+of * - *
+Escherichia * - *
+coli * - *
+codes * code (V*)
+for * - *
+an (PTE* - (A0*
+outer * - *
+membrane * - *
+protein *) - *)
+that * - *
+is * - *
+involved * - *
+in * - *
+the * - *
+uptake * - *
+of * - *
+long-chain * - *
+fatty * - *
+acids * - *
+. * - *
+
+The * - * * *
+inducer * - * * *
+for * - * * *
+the * - * * *
+CytR (PTE*) - (A1*) * *
+repressor * - * * *
+, * - * * *
+cytidine * - * (A1*) *
+, * - * * *
+does * - * * *
+not * - * * *
+prevent * - * * *
+in * - (A3* * *
+vitro * - *) * *
+DNA (DNA*) - (A7*) * *
+binding * bind (V*) * *
+of * - * * *
+CytR * - * * *
+, * - * * *
+but * - * * *
+releases * release * (V*) *
+the (PTE* - * (A0* *
+repressor *) - * *) *
+from * - * * *
+the (PTE* - * (A6* *
+nucleoprotein * - * * *
+complex *) - * *) *
+and * - * * *
+leaves * - * * *
+the (PTE* - * * (A1*
+cAMP-CRP * - * * *
+activator *) - * * *)
+bound * bound * * (V*)
+to * - * * *
+its (DNA* - * * (A7*
+two * - * * *
+DNA * - * * *
+targets *) - * * *)
+. * - * * *
+
+The * - *
+regulation * regulation (V*)
+of * - *
+gcvA (DNA*) - (A0*)
+was * - *
+examined * - *
+by * - *
+constructing * - *
+a * - *
+gcvA-lacZ * - *
+gene * - *
+fusion * - *
+in * - *
+which * - *
+beta-galactosidase * - *
+synthesis * - *
+is * - *
+under * - *
+the * - *
+control * - *
+of * - *
+the * - *
+gcvA * - *
+regulatory * - *
+region * - *
+. * - *
+
+The (DNA* - (A1*
+cpxA101 * - *
+mutation *) - *)
+abolishes * abolish (V*)
+cpxA (PTE* - (A0*
+phosphatase * - *
+activity *) - *)
+and * - *
+results * - *
+in * - *
+the * - *
+accumulation * - *
+of * - *
+phosphorylated * - *
+CpxR * - *
+. * - *
+
+Two * - *
+regulatory * - *
+proteins * - *
+, * - *
+Gal (PTE* - *
+repressor * - *
+and * - *
+isorepressor *) - *
+, * - *
+control * - *
+the * - *
+expression * express (V*)
+of * - *
+the (DNA* - (A0*
+gal * - *
+and * - *
+mgl * - *
+operons *) - *)
+in * - (A2*
+Escherichia (ORG* - *
+coli *) - *)
+. * - *
+
+The * - *
+presence * - *
+of * - *
+two * - *
+predominant * - *
+NERF * - *
+transcripts * - *
+in * - *
+various * - *
+fetal * - *
+and * - *
+adult * - *
+human * - *
+tissues * - *
+is * - *
+due * - *
+to * - *
+at * - *
+least * - *
+three * - *
+alternative * - *
+splice * - *
+products * - *
+, * - *
+NERF-1a * - *
+, * - *
+NERF-1b * - *
+, * - *
+and * - *
+NERF-2 * - *
+, * - *
+which * - *
+differ * - *
+in * - *
+their * - *
+amino * - *
+termini * - *
+and * - *
+their * - *
+expression * express (V*)
+in * - (A2*
+different (ORG* - *
+tissues *) - *)
+. * - *
+
+Site-directed * - *
+mutagenesis * - *
+of * - *
+the * - *
+crp * - *
+binding * - *
+site * - *
+provided * - *
+evidence * - *
+that * - *
+this * - *
+site * - *
+is * - *
+necessary * - *
+for * - *
+the * - *
+in * - *
+vivo * - *
+regulation * - *
+of * - *
+ompB (DNA*) - (A0*)
+expression * express (V*)
+by * - *
+cyclic (EXP* - *
+AMP *) - *
+. * - *
+
+Expression * express (V*)
+from * - *
+the * - *
+Escherichia * - *
+coli * - *
+nrfA * - *
+promoter * - *
+( * - *
+pnrfA (DNA*) - (A6*)
+) * - *
+is * - *
+activated * - *
+by * - *
+both * - *
+the (PTE* - *
+FNR * - *
+protein *) - *
+( * - *
+an * - *
+anaerobically * - *
+triggered * - *
+transcription * - *
+activator * - *
+) * - *
+and * - *
+the (PTE* - *
+NarL * - *
+or * - *
+NarP * - *
+proteins *) - *
+( * - *
+transcription * - *
+activators * - *
+triggered * - *
+by * - *
+nitrite * - *
+and * - *
+nitrate * - *
+) * - *
+. * - *
+
+Among * - *
+the * - *
+conditions * - *
+tested * - *
+( * - *
+carbon (EXP* - *
+starvation *) - *
+, * - *
+the (EXP* - *
+stringent * - *
+response *) - *
+, * - *
+phosphate (EXP* - *
+starvation *) - *
+, * - *
+and * - *
+the (EXP* - *
+SOS * - *
+response *) - *
+) * - *
+, * - *
+only * - *
+phosphate (EXP* - *
+depletion *) - *
+increased * - *
+iciA (DNA*) - (A0*)
+expression * express (V*)
+. * - *
+
+It * - (A0*)
+involves * involve (V*)
+two * - *
+upstream * - *
+regulatory * - *
+sequences * - *
+, * - *
+one * - *
+between * - *
+the * - *
+hyp * - *
+and * - *
+the * - *
+hyc * - *
+operon * - *
+( * - *
+IR1 (DNA*) - (A4*)
+) * - *
+, * - *
+and * - *
+the * - *
+other * - *
+between * - *
+hycA * - *
+and * - *
+hycB * - *
+( * - *
+IR2 (DNA*) - *
+) * - *
+. * - *
+
+We * - * *
+suggest * - * *
+that * - * *
+NarL (DNA*) - * *
+interferes * - * *
+with * - * *
+IHF (PTE*) - (A0*) *
+binding * bind (V*) *
+at * - * *
+the * - * *
+nir * - * *
+promoter * - * *
+by * - * *
+distorting * - * *
+the * - * *
+minor * - * *
+groove * - * *
+at * - * *
+its * - * *
+target * - * *
+site * - * *
+, * - * *
+and * - * *
+we * - * *
+argue * - * *
+that * - * *
+the * - * *
+resulting * - * *
+activation * - * *
+by * - * *
+NarL * - * *
+results * - * *
+from * - * *
+remodelling * - * *
+of * - * *
+the * - * *
+local * - * *
+nucleoprotein * - * *
+structure * - * *
+to * - * *
+facilitate * - * *
+FNR-dependent * - * (A5*)
+transcription * transcription * (V*)
+. * - * *
+
+In * - * *
+addition * - * *
+, * - * *
+the (DNA* - (A0* *
+cluster *) - *) *
+contains * contain (V*) *
+other (DNA* - (A4* (A0*
+promoters *) - *) *)
+individually * - * (A5*)
+regulated * regulate * (V*)
+by * - * *
+cis- * - * (A1*
+and * - * *
+trans-acting * - * *
+signals * - * *)
+. * - * *
+
+Erythroid * - *
+Krüppel-like * - *
+factor * - *
+( * - *
+EKLF * - *
+) * - *
+is * - *
+necessary * - *
+for * - *
+stage-specific * - (A5*)
+expression * express (V*)
+of * - *
+the (DNA* - (A0*
+human * - *
+beta-globin * - *
+gene *) - *)
+. * - *
+
+These * - * *
+findings * - * *
+suggest * - * *
+that * - * *
+the * - * *
+role * - * *
+of * - * *
+the * - * *
+rearrangements * - * *
+fusing * - * *
+RLF (DNA* - (A1* *
+and * - * *
+L-myc *) - *) *
+is * - * *
+to * - * *
+deregulate * deregulate (V*) *
+the * - (A0* *
+tightly * - * (A5*
+controlled * - * *)
+expression * express * (V*)
+of * - * *
+the (DNA* - * (A0*
+L-myc * - * *
+gene *) - *) *)
+. * - * *
+
+In * - * * * *
+vitro * - * * * *
+DNase * - * * * *
+I * - * * * *
+protection * - * * * *
+experiments * - * * * *
+indicated * - * * * *
+that * - * * * *
+among * - * * * *
+operators * - * * * *
+of * - * * * *
+the * - * * * *
+gal * - * * * *
+regulon * - * * * *
+, * - * * * *
+GalS (PTE*) - (A1*) * * *
+binds * bind (V*) * * *
+most * - * * * *
+strongly * - * * * *
+to * - * * * *
+the (DNA* - (A0* * * *
+external * - * * * *
+operator *) - *) * * *
+of * - * * * *
+the (DNA* - * (A1* * *
+mgl * - * * * *
+operon *) - * *) * *
+, * - * * * *
+which * - * * * *
+encodes * encode * (V*) * *
+the (PTE* - * (A0* * *
+high-affinity * - * * * *
+beta-methylgalactoside * - * * * *
+galactose * - * * * *
+transport * - * * * *
+system *) - * *) * *
+, * - * * * *
+and * - * * * *
+with * - * * * *
+less * - * * * *
+affinity * - * * * *
+to * - * * * *
+the (DNA* - * * * *
+operators *) - * * * *
+controlling * - * * * *
+expression * express * * (V*) *
+of * - * * * *
+the (DNA* - * * (A0* (A1*
+gal * - * * * *
+operon *) - * * *) *)
+, * - * * * *
+which * - * * * *
+codes * code * * * (V*)
+for * - * * * *
+enzymes (PTE*) - * * * (A0*)
+of * - * * * *
+galactose * - * * * *
+metabolism * - * * * *
+. * - * * * *
+
+The * - * *
+expression * express (V*) *
+levels * - * *
+of * - * *
+the * - * *
+electron * - * *
+transfer * - * *
+chain * - * *
+genes * - * *
+, * - * *
+nuoA (DNA*) - (A0*) *
+, * - * *
+ndh (DNA*) - * *
+, * - * *
+and * - * *
+ubiE (DNA*) - * *
+, * - * *
+were * - * *
+not * - * *
+significantly * - * *
+affected * - * *
+by * - * *
+either * - * *
+ArcA (PTE*) - * *
+or * - * *
+Fnr (PTE* - * *
+regulation * - * *
+proteins *) - * *
+, * - * *
+while * - * *
+a * - * *
+lower * - * *
+expression * express * (V*)
+of * - * *
+cydA (DNA*) - * (A0*)
+( * - * *
+up * - * *
+to * - * *
+9-fold * - * (A9*
+lower * - * *)
+) * - * *
+and * - * *
+a * - * *
+higher * - * *
+expression * - * *
+of * - * *
+cyoA * - * *
+( * - * *
+up * - * *
+to * - * *
+31-fold * - * *
+higher * - * *
+) * - * *
+were * - * *
+observed * - * *
+in * - * *
+cultures * - * *
+of * - * *
+the * - * *
+arcA * - * *
+mutant * - * *
+strain * - * *
+compared * - * *
+to * - * *
+those * - * *
+of * - * *
+the * - * *
+wild * - * *
+type * - * *
+. * - * *
+
+Cotransfections * cotransfect (V*) * * *
+with * - * * * *
+plasmids (DNA*) - (A0*) (A1*) * *
+expressing * express * (V*) * *
+WT-1 (DNA*) - * (A0*) * *
+, * - * * * *
+WTAR (DNA*) - * * * *
+( * - * * * *
+a (DNA* - * * * *
+mutated * - * * * *
+form *) - * * * *
+of * - * * * *
+WT-1 (DNA*) - * * (A3*) *
+) * - * * * *
+, * - * * * *
+p53 (DNA*) - * * * *
+, * - * * * *
+and * - * * * *
+a * - * * * *
+mutated * - * * * *
+form * - * * * *
+of * - * * * *
+p53 * - * * * *
+revealed * - * * * *
+a * - * * * *
+complex * - * * * *
+pattern * - * * * *
+of * - * * * *
+regulation * - * * * *
+with * - * * * *
+a * - * * * *
+3-fold * - * * (A9*) *
+induction * induce * * (V*) *
+with * - * * * *
+WT-1 * - * * * *
+, * - * * * *
+a * - * * * *
+7-fold * - * * * *
+induction * - * * * *
+with * - * * * *
+mutated (DNA* - * * * *
+p53 *) - * * * *
+, * - * * * *
+and * - * * * *
+a * - * * * *
+4-fold * - * * * (A9*)
+repression * repress * * * (V*)
+with * - * * * *
+wild-type (DNA* - * * * (A3*
+p53 *) - * * * *)
+. (PRC*) - * * * *
+
+The * - (A1*
+coactivator * - *
+activity * - *)
+requires * require (V*)
+an (PTE* - (A0*
+hTAF * - *
+( * - *
+II * - *
+) * - *
+135 * - *
+region *) - *)
+that * - *
+is * - *
+located * - *
+between * - *
+the * - *
+conserved * - *
+domains * - *
+but * - *
+is * - *
+itself * - *
+not * - *
+conserved * - *
+in * - *
+dTAF * - *
+( * - *
+II * - *
+) * - *
+110 * - *
+and * - *
+hTAF * - *
+( * - *
+II * - *
+) * - *
+105 * - *
+. * - *
+
+The (DNA* - (A1* *
+cspA * - * *
+and * - * *
+fecR * - * *
+genes *) - *) *
+, * - * *
+encoding * encode (V*) *
+regulatory (PTE* - (A0* *
+proteins *) - *) *
+responding * - * *
+to * - * *
+cold * - (A3* *
+shock * - *) *
+and * - * *
+to * - * *
+iron (EXP*) - * *
+, * - * *
+respectively * - * *
+, * - * *
+and * - * *
+yoaD (DNA*) - * (A1*)
+, * - * *
+encoding * encode * (V*)
+a (PTE* - * (A0*
+putative * - * *
+negative * - * *
+regulator *) - * *)
+of * - * *
+cellulose * - * *
+biosynthesis * - * *
+, * - * *
+were * - * *
+found * - * *
+to * - * *
+be * - * *
+some * - * *
+of * - * *
+the * - * *
+novel * - * *
+CsgD-regulated * - * *
+genes * - * *
+. * - * *
+
+Two (DNA* - (A1*
+acnA * - *
+promoters *) - *)
+transcribing * transcribe (V*)
+from * - *
+start * - *
+points * - *
+located * - *
+407 * - *
+bp * - *
+( * - *
+P1acnA (DNA*) - (A6*)
+) * - *
+and * - *
+50 * - *
+bp * - *
+( * - *
+P2acnA (DNA*) - *
+) * - *
+upstream * - *
+of * - *
+the * - *
+acnA * - *
+coding * - *
+region * - *
+, * - *
+and * - *
+one * - *
+acnB * - *
+promoter * - *
+( * - *
+PacnB * - *
+) * - *
+with * - *
+a * - *
+start * - *
+point * - *
+95 * - *
+bp * - *
+upstream * - *
+of * - *
+the * - *
+acnB * - *
+coding * - *
+region * - *
+, * - *
+were * - *
+identified * - *
+by * - *
+primer * - *
+extension * - *
+analysis * - *
+. * - *
+
+The * - *
+ArC/XylS * - *
+family * - *
+of * - *
+prokaryotic * - *
+positive * - *
+transcriptional * - *
+regulators * - *
+includes * - *
+more (PTE* - (A0*
+than * - *
+100 * - *
+proteins * - *
+and * - *
+polypeptides *) - *)
+derived * derive (V*)
+from * - *
+open (DNA* - (A6*
+reading * - *
+frames *) - *)
+translated * - *
+from * - *
+DNA * - *
+sequences * - *
+. * - *
+
+In * - *
+vitro * - *
+experiments * - *
+with * - *
+GadE (PTE* - (A1*
+purified * - *
+protein *) - *)
+provided * - *
+evidence * - *
+that * - *
+this * - *
+regulator * - *
+binds * bind (V*)
+to * - *
+the (DNA* - (A7*
+promoter * - *
+region *) - *)
+of * - *
+these * - *
+target * - *
+genes * - *
+. * - *
+
+Overexpression * overexpress (V*) *
+of * - * *
+marA * - * *
+alone * - * *
+on * - (A2* *
+a (DNA* - * *
+multicopy * - * *
+plasmid *) - *) *
+caused * - * *
+high * - * (A5*
+constitutive * - * *)
+expression * express * (V*)
+of * - * *
+inaA (DNA*) - * (A0*)
+in * - * *
+a (None* - * *
+strain *) - * *
+with * - * *
+an * - * *
+extensive * - * *
+( * - * *
+39-kbp * - * *
+) * - * *
+marRAB * - * *
+deletion * - * *
+. (DNA*) - (A0*) *
+
+By * - * *
+using * - * *
+the * - * *
+DNase * - * *
+I * - * *
+footprinting * - * *
+technique * - * *
+, * - * *
+we * - * *
+showed * - * *
+that * - * *
+CRP (PTE*) - (A1*) (A1*)
+binds * bind (V*) (V*)
+with * - * *
+high * - (A5* *
+affinity * - *) *
+to * - * *
+the (DNA* - (A7* *
+three * - * *
+malEp-proximal * - * *
+sites *) - *) *
+and * - * *
+with * - * *
+a * - * (A5*
+low * - * *
+affinity * - * *)
+to * - * *
+the (DNA* - * (A7*
+fourth * - * *
+site *) - * *)
+. * - * *
+
+The (DNA* - (A0* (A1* *
+DNA *) - *) *) *
+containing * contain (V*) * *
+these (DNA* - (A4* * *
+two * - * * *
+operators *) - *) * *
+synergistically * - * (A5*) *
+increased * increase * (V*) *
+the * - * (A0* *
+apparent * - * * *
+affinity * - * *) *
+of * - * * *
+glp * - * * *
+repressor * - * * *
+for * - * * *
+DNA (DNA* - * * (A0*
+fragments *) - * * *)
+containing * contain * * (V*)
+the (DNA* - * * (A4*
+four * - * * *
+operators *) - * * *)
+in * - * * (A2*
+the (DNA* - * * *
+promoter * - * * *
+region *) - * * *)
+of * - * * *
+the * - * * *
+glpFK * - * * *
+operon * - * * *
+. * - * * *
+
+Control * control (V*) *
+of * - * *
+the (DNA* - (A0* *
+ompB * - * *
+operon *) - *) *
+by * - * *
+cyclic (PTE* - (A1* *
+AMP-CRP *) - *) *
+may * - * *
+account * - * *
+for * - * *
+the * - * *
+observed * - * *
+regulation * - * *
+of * - * *
+the * - * *
+formation * form * (V*)
+of * - * *
+OmpF (PTE* - * (A0*
+and * - * *
+OmpC *) - * *)
+by * - * *
+this (PTE* - * (A1*
+complex *) - * *)
+( * - * *
+N * - * *
+. * - * *
+W * - * *
+. * - * *
+Scott * - * *
+and * - * *
+C * - * *
+. * - * *
+R * - * *
+. * - * *
+Harwood * - * *
+, * - * *
+FEMS * - * *
+Microbiol * - * *
+. * - * *
+Lett * - * *
+. * - * *
+9 * - * *
+: * - * *
+95-98 * - * *
+, * - * *
+1980 * - * *
+) * - * *
+. * - * *
+
+The * - (A1* * * * *
+control * - * * * * *
+loop * - *) * * * *
+involves * involve (V*) * * * *
+the (PTE* - (A0* * * * *
+GadX * - * * * * *
+protein *) - *) * * * *
+repressing * - * * * * *
+the * - * * * * *
+expression * express * (V*) * * *
+of * - * * * * *
+gadW (DNA*) - * (A0*) * * *
+and * - * * * * *
+the (PTE* - * * (A1* (A1* *
+GadW * - * * * * *
+protein *) - * * *) *) *
+repressing * repress * * (V*) * *
+or * - * * * * *
+inhibiting * inhibit * * * (V*) *
+RpoS (PTE*) - * * (A0*) (A0*) *
+, * - * * * * *
+which * - * * * * *
+is * - * * * * *
+the (PTE* - * * * * *
+alternative * - * * * * *
+sigma * - * * * * *
+factor *) - * * * * *
+that * - * * * * *
+drives * - * * * * *
+transcription * transcription * * * * (V*)
+of * - * * * * *
+gadX (DNA*) - * * * * (A0*)
+. * - * * * * *
+
+We * - *
+have * - *
+identified * - *
+a * - *
+novel * - *
+regulator * - *
+, * - *
+termed * - *
+MlrA (PTE*) - (A1*)
+, * - *
+that * - *
+is * - *
+required * require (V*)
+for * - *
+curli * - (A11*
+production * - *)
+and * - *
+extracellular * - *
+matrix * - *
+formation * - *
+. * - *
+
+Superimposed * - * *
+in * - * *
+the * - * *
+specific * - * *
+PaaX-mediated * - (A5*) *
+regulation * regulation (V*) *
+is * - * *
+transcriptional * - * (A5*)
+activation * activate * (V*)
+by * - * *
+the (PTE* - * (A1*
+cAMP * - * *
+receptor * - * *
+protein *) - * *)
+and * - * *
+the (PTE* - * *
+integration * - * *
+host * - * *
+factor * - * *
+protein *) - * *
+. * - * *
+
+Therefore * - * *
+, * - * *
+it * - * *
+seems * - * *
+that * - * *
+different * - (A1* (A1*
+mechanisms * - *) *)
+involving * involve (V*) *
+RpoS (PTE* - (A8* *
+and * - * *
+ppGpp *) - *) *
+regulate * regulate * (V*)
+the * - * (A0*
+growth-phase * - * *
+response * - * *)
+of * - * *
+the * - * *
+two * - * *
+promoters * - * *
+. * - * *
+
+Homocysteine (EXP*) - *
+, * - *
+a * - *
+coregulator * - *
+for * - *
+MetR (PTE*) - (A1*)
+, * - *
+increased * - *
+MetR * - *
+binding * bind (V*)
+to * - *
+the (DNA* - (A7*
+glyA * - *
+control * - *
+region *) - *)
+. * - *
+
+Normal * - *
+expression * express (V*)
+of * - *
+fimA (DNA*) - (A0*)
+was * - *
+shown * - *
+to * - *
+require * - *
+the * - *
+integration * - *
+host * - *
+factor * - *
+( * - *
+IHF (PTE*) - *
+) * - *
+. * - *
+
+Strains (None*) - *
+unable * - *
+to * - *
+synthesize * - *
+any * - *
+one * - *
+of * - *
+the * - *
+NarL * - *
+, * - *
+NarP * - *
+, * - *
+NarQ * - *
+, * - *
+or * - *
+NarX * - *
+proteins * - *
+, * - *
+but * - *
+retaining * - *
+the * - *
+capacity * - *
+to * - *
+synthesize * - *
+the * - *
+remaining * - *
+three * - *
+, * - *
+exhibited * - *
+essentially * - *
+normal * - *
+nitrate (EXP*) - (A1*)
+regulation * regulation (V*)
+. * - *
+
+HOX4C (PTE* - (A0* (A1*
+and * - * *
+HOX4D * - * *
+proteins *) - *) *)
+synthesized * synthesize (V*) *
+in * - (A2* *
+bacteria * - *) *
+bind * bind * (V*)
+to * - * *
+the (DNA* - * (A7*
+same * - * *
+conserved * - * *
+sequence *) - * *)
+located * - * *
+around * - * *
+position * - * *
+-120 * - * *
+, * - * *
+as * - * *
+well * - * *
+as * - * *
+to * - * *
+the (DNA* - * *
+TATA * - * *
+box *) - * *
+and * - * *
+immediately (DNA* - * *
+upstream * - * *
+and * - * *
+downstream * - * *
+nucleotides *) - * *
+. (ORG*) - * *
+
+Analyses * - * * *
+to * - * * *
+quantitate * - * * *
+the * - * * *
+induction * induce (V*) * *
+of * - * * *
+this * - (A0* * *
+system * - *) * *
+show * - * * *
+that * - * * *
+derepression * derepress * (V*) *
+of * - * * *
+the (DNA* - * (A0* *
+operon *) - * *) *
+is * - * * *
+first * - * * *
+detectable * - * * *
+5 * - * * *
+min * - * * *
+after * - * * *
+UV * - * * *
+exposure * - * * *
+, * - * * *
+with * - * * *
+the * - * * (A0*
+rate * - * * *
+of * - * * *
+synthesis * - * * *)
+increasing * increase * * (V*)
+to * - * * *
+four * - * * (A9*
+to * - * * *
+six * - * * *
+times * - * * *
+the * - * * *
+uninduced * - * * *
+rate * - * * *)
+during * - * * *
+the * - * * *
+subsequent * - * * *
+30 * - * * *
+min * - * * *
+. * - * * *
+
+When * - * * *
+expressed * express (V*) * *
+in * - (A2* * *
+COS (ORG* - * * *
+cells *) - *) * *
+, * - * * *
+however * - * * *
+, * - * * *
+NFAT1 (PTE*) - * (A0*) *
+is * - * * *
+capable * - * * *
+of * - * * *
+transactivation * - * * *
+, * - * * *
+but * - * * *
+it * - * * *
+is * - * * *
+not * - * * *
+regulated * regulate * (V*) *
+correctly * - * * *
+: * - * * *
+its * - * * *
+subcellular * - * * *
+localization * - * * *
+and * - * * *
+transcriptional * - * * *
+function * - * * *
+are * - * * *
+not * - * * *
+affected * - * * *
+by * - * * *
+stimulation * stimulate * * (V*)
+of * - * * *
+the (ORG* - * * (A0*
+COS * - * * *
+cells *) - * * *)
+with * - * * *
+ionomycin (EXP*) - * * (A1*)
+and * - * * *
+phorbol (EXP* - * * *
+12-myristate * - * * *
+13-acetate *) - * * *
+. * - * * *
+
+The * - * * *
+response * respond (V*) * *
+of * - * * *
+this (DNA* - (A1* * *
+fusion *) - *) * *
+to * - * * *
+the (PTE* - (A0* * *
+glp * - * * *
+repressor *) - *) * *
+was * - * * *
+compared * - * * *
+with * - * * *
+those * - * * *
+of * - * * *
+fusion * - * * *
+constructs * - * * *
+in * - * * *
+which * - * * *
+O (DNA* - * (A0* *
+( * - * * *
+D * - * * *
+) * - * * *
+3 *) - * *) *
+and * - * * *
+O (DNA*) - * * *
+( (DNA*) - * * *
+D (DNA*) - * * *
+) (DNA* - * * *
+4 *) - * * *
+were * - * * *
+inactivated * inactivate * (V*) *
+by * - * * *
+either * - * * *
+deletion (EXP*) - * (A1*) *
+or * - * * *
+site-directed * - * * (A5*)
+mutagenesis * mutate * * (V*)
+. * - * * *
+
+Despite * - *
+extensive * - *
+overlap * - *
+of * - *
+regulatory * - *
+elements * - *
+, * - *
+pnrfA (DNA* - (A0*
+and * - *
+pacsP1 *) - *)
+are * - *
+regulated * regulate (V*)
+independently * - (A5*)
+. * - *
+
+Three * - *
+distinct * - *
+regions * - *
+are * - *
+protected * - *
+by * - *
+TorR (PTE*) - (A1*)
+binding * bind (V*)
+. * - *
+
+Regulation * regulate (V*)
+of * - *
+the (DNA* - (A0*
+Escherichia * - *
+coli * - *
+K-12 * - *
+uvrB * - *
+operon *) - *)
+. * - *
+
+Increasing * - * *
+the * - * *
+spacing * - * *
+to * - * *
+four * - * *
+or * - * *
+more * - * *
+basepairs * - * *
+abolished * - * *
+NarP (PTE*) - (A1*) *
+binding * bind (V*) *
+and * - * *
+significantly * - * *
+reduced * - * *
+NarL (PTE*) - * (A1*)
+binding * bind * (V*)
+. * - * *
+
+The * - * *
+absence * - * *
+of * - * *
+transcriptional * - * *
+termination * - * *
+signals * - * *
+may * - * *
+, * - * *
+in * - * *
+principle * - * *
+, * - * *
+allow * - * *
+extension * extend (V*) *
+of * - * *
+the (DNA* - (A0* (A0*
+transcripts *) - *) *)
+initiated * initiate * (V*)
+at * - * (A2*)
+the * - * *
+up-stream * - * *
+promoter * - * *
+( * - * *
+mraZ1p (DNA*) - * *
+) * - * *
+even * - * *
+to * - * *
+the * - * *
+furthest * - * *
+down-stream * - * *
+gene * - * *
+( * - * *
+envA * - * *
+) * - * *
+. * - * *
+
+Using * - * *
+ROMA * - * *
+, * - * *
+we * - * *
+identified * - * *
+176 (DNA* - (A0* *
+operons *) - *) *
+that * - * *
+were * - * *
+activated * activate (V*) *
+by * - * *
+CRP (PTE*) - (A1*) (A1*)
+in * - (A10* *
+vitro * - *) *
+and * - * *
+16 (DNA* - * (A0*
+operons *) - * *)
+that * - * *
+were * - * *
+repressed * repress * (V*)
+. * - * *
+
+When * - *
+glnAp2 (DNA*) - (A0*)
+is * - *
+activated * activate (V*)
+by * - *
+NifA (PTE*) - (A1*)
+, * - *
+a * - *
+similar * - *
+inhibitory * - *
+effect * - *
+by * - *
+CRP-cAMP * - *
+is * - *
+observed * - *
+. * - *
+
+Studies * - * *
+with * - * *
+strains * - * *
+deleted * delete (V*) *
+for * - * *
+the (DNA* - (A0* *
+micF * - * *
+locus *) - *) *
+showed * - * *
+that * - * *
+the * - * *
+marA-dependent * - * (A5*)
+reduction * reduce * (V*)
+of * - * *
+OmpF (PTE*) - * (A0*)
+required * - * *
+an (DNA* - * *
+intact * - * *
+micF * - * *
+locus *) - * *
+. * - * *
+
+These * - * * *
+data * - * * *
+suggest * - * * *
+that * - * * *
+binding * - (A0* * *
+of * - * * *
+the (PTE* - * * *
+NFKB2 * - * * *
+subunit *) - * * *
+to * - * * *
+the (DNA* - * * *
+HIV * - * * *
+enhancer *) - *) * *
+is * - * * *
+facilitated * facilitate (V*) * *
+by * - * * *
+RelA (PTE*) - (A1*) * *
+( * - * * *
+p65 * - * * *
+) * - * * *
+and * - * * *
+that * - * * *
+this (PTE* - * * (A0*
+NFKB2 * - * * *
+( * - * * *
+p49 * - * * *
+) * - * * *
+/p65 * - * * *
+heterodimeric * - * * *
+complex *) - * * *)
+mediates * - * * *
+transcriptional * - * (A5*) *
+activation * activate * (V*) *
+which * - * * *
+is * - * * *
+subject * - * * *
+to * - * * *
+regulation * regulation * * (V*)
+by * - * * *
+MAD-3 (PTE*) - * * (A1*)
+. * - * * *
+
+Expression * express (V*)
+of * - *
+the * - *
+human * - *
+Trm4 * - *
+( * - *
+hTrm4 (DNA*) - (A0*)
+) * - *
+cDNA * - *
+in * - (A2*
+yeast * - *)
+partially * - *
+complements * - *
+the * - *
+lack * - *
+of * - *
+the * - *
+endogenous * - *
+Trm4p * - *
+enzyme * - *
+. (ORG*) - *
+
+Regulation * regulate (V*)
+in * - (A2*
+the (DNA* - *
+rpoS * - *
+regulon *) - *)
+of * - *
+Escherichia * - *
+coli * - *
+. * - *
+
+Screening * - *
+of * - *
+colonies * - *
+by * - *
+fluorescence * - *
+microscopy * - *
+revealed * - *
+numerous (None* - *
+mutants *) - *
+that * - *
+exhibited * - *
+interesting * - *
+patterns * - *
+of * - *
+porin * - (A0*)
+expression * express (V*)
+. * - *
+
+A * - *
+mutational * - *
+analysis * - *
+, * - *
+coupled * - *
+with * - *
+in * - *
+vivo * - *
+and * - *
+in * - *
+vitro * - *
+transcription * - *
+experiments * - *
+, * - *
+indicated * - *
+that * - *
+Lrp * - (A0*
+sites * - *)
+that * - *
+overlap * - *
+the * - *
+dad * - *
+promoters * - *
+were * - *
+involved * involve (V*)
+in * - *
+repression (PRC*) - (A4*)
+. * - *
+
+Electrophoretic * - * *
+mobility * - * *
+shift * - * *
+assays * - * *
+and * - * *
+DNase * - * *
+I * - * *
+protection * - * *
+assays * - * *
+indicate * - * *
+that * - * *
+where * - * *
+the * - * *
+phosphorylated * - * *
+form * - * *
+of * - * *
+the * - * *
+ArcA * - * *
+protein * - * *
+( * - * *
+ArcA-P (PTE*) - (A0*) *
+) * - * *
+is * - * *
+expected * - * *
+to * - * *
+act * act (V*) *
+as * - * *
+a (PTE* - (A4* *
+transcriptional * - * *
+repressor *) - *) *
+( * - * *
+e * - * *
+. * - * *
+g * - * *
+. * - * *
+, * - * *
+of * - * *
+lctPRD * - * *
+and * - * *
+gltA-sdhCDAB * - * *
+) * - * *
+, * - * *
+the * - * *
+effect * - * *
+is * - * *
+likely * - * *
+to * - * *
+be * - * *
+mediated * - * *
+by * - * *
+sequestration * sequestrate * (V*)
+of * - * *
+cis-controlling * - * (A0*
+transcriptional * - * *
+regulatory * - * *
+elements * - * *)
+. * - * *
+
+However * - * * * *
+, * - * * * *
+overexpression * overexpression (V*) * * *
+of * - * * * *
+gcvR (DNA*) - (A0*) * * *
+re-established * - * * * *
+purine-mediated * - * (A5*) * *
+repression * repress * (V*) * *
+of * - * * * *
+the (DNA* - * (A0* * *
+gcvT * - * * * *
+: * - * * * *
+: * - * * * *
+lacZ * - * * * *
+fusion *) - * *) * *
+, * - * * * *
+supporting * - * * * *
+the * - * * * *
+model * - * * * *
+for * - * * * *
+gcv (DNA*) - * * (A0*) *
+regulation * regulation * * (V*) *
+that * - * * * *
+suggests * - * * * *
+the * - * * * *
+need * - * * * *
+for * - * * * *
+a * - * * * *
+relatively * - * * * *
+constant * - * * * *
+GcvA * - * * * *
+to * - * * * *
+GcvR * - * * * *
+ratio * - * * * *
+for * - * * * *
+appropriate * - * * * *
+regulation * - * * * *
+of * - * * * *
+gcv (DNA*) - * * * (A0*)
+expression * express * * * (V*)
+in * - * * * *
+response * - * * * *
+to * - * * * *
+glycine * - * * * *
+and * - * * * *
+purine * - * * * *
+availability * - * * * *
+. * - * * * *
+
+The * - *
+combination * - *
+of * - *
+potent * - *
+enhancer * - *
+and * - *
+governor * - *
+sites * - *
+at * - *
+the * - *
+glnAp2 * - *
+promoter * - *
+provides * - *
+for * - *
+efficient * - *
+activation * activate (V*)
+of * - *
+the (DNA* - (A0*
+promoter *) - *)
+when * - *
+the (PTE* - (A3*
+activator * - *
+concentration *) - *
+is * - *
+low * - *)
+, * - *
+while * - *
+limiting * - *
+the * - *
+maximum * - *
+level * - *
+of * - *
+promoter * - *
+activity * - *
+when * - *
+the * - *
+activator * - *
+concentration * - *
+is * - *
+high * - *
+. * - *
+
+However * - *
+, * - *
+inactivation * inactivate (V*)
+of * - *
+mlrA (DNA*) - (A0*)
+did * - *
+not * - *
+affect * - *
+curli * - *
+production * - *
+and * - *
+aggregative * - *
+morphology * - *
+in * - *
+an * - *
+upregulated * - *
+curli * - *
+producing * - *
+S (None* - *
+. * - *
+typhimurium * - *
+derivative *) - *
+containing * - *
+a * - *
+temperature- * - *
+and * - *
+RpoS-independent * - *
+agfD * - *
+promoter * - *
+region * - *
+. * - *
+
+Thus * - * *
+, * - * *
+MelR (PTE*) - (A1*) (A1*)
+and * - * *
+CRP (PTE*) - * *
+activate * activate (V*) *
+transcription (PRC*) - (A0*) *
+by * - * *
+a * - * *
+novel * - * *
+mechanism * - * *
+in * - * *
+which * - * *
+they * - * *
+bind * bind * (V*)
+co-operatively * - * *
+to * - * *
+adjacent (DNA* - * (A7*
+sites *) - * *)
+and * - * *
+form * - * *
+a * - * *
+bacterial * - * *
+enhanceosome * - * *
+. * - * *
+
+Gene (DNA*) - (A0*)
+expression * express (V*)
+regulation * - *
+by * - *
+the (PTE* - *
+Curli * - *
+activator * - *
+CsgD * - *
+protein *) - *
+: * - *
+modulation * - *
+of * - *
+cellulose * - *
+biosynthesis * - *
+and * - *
+control * - *
+of * - *
+negative * - *
+determinants * - *
+for * - *
+microbial * - *
+adhesion * - *
+. * - *
+
+Deletion * delete (V*) * *
+of * - * * *
+the (DNA* - (A0* * *
+arcA * - * * *
+gene *) - *) * *
+caused * - * * *
+about * - * * *
+a * - * * *
+2-fold * - * * *
+increase * - * * *
+in * - * * *
+the * - * * *
+ptsG (DNA*) - * (A0*) *
+expression * express * (V*) *
+, * - * * *
+and * - * * *
+overexpression * overexpression * * (V*)
+of * - * * *
+ArcA (PTE*) - * * (A0*)
+significantly * - * * *
+decreased * - * * *
+glucose * - * * *
+consumption * - * * *
+. * - * * *
+
+The (DNA* - (A1* * *
+ompB * - * * *
+operon *) - *) * *
+encodes * encode (V*) * *
+OmpR (PTE* - (A0* * *
+and * - * * *
+EnvZ *) - *) * *
+, * - * * *
+two * - * * *
+proteins * - * * *
+that * - * * *
+are * - * * *
+necessary * - * * *
+for * - * * *
+the * - * * *
+expression * express * (V*) *
+and * - * * *
+osmoregulation * osmoregulate * * (V*)
+of * - * * *
+the (PTE* - * (A0* (A0*
+OmpF * - * * *
+and * - * * *
+OmpC * - * * *
+porins *) - * *) *)
+in * - * (A2* (A2*
+Escherichia (ORG* - * * *
+coli *) - * *) *)
+. * - * * *
+
+Oxidative * - *
+stress * - *
+is * - *
+suggested * - *
+to * - *
+occur * - *
+in * - *
+retinal * - *
+tissue * - *
+during * - *
+age-related * - *
+macular * - *
+degeneration * - *
+and * - *
+diabetic * - *
+retinopathy * - *
+and * - *
+is * - *
+suspected * - *
+in * - *
+the * - *
+mechanism * - *
+of * - *
+VEGF * - (A0*)
+expression * express (V*)
+in * - *
+these * - *
+diseases * - *
+. * - *
+
+We * - * *
+identified * - * *
+two * - * *
+new * - * *
+targets * - * *
+of * - * *
+this * - * *
+complex * - * *
+: * - * *
+argG (DNA*) - (A1*) *
+, * - * *
+which * - * *
+encodes * encode (V*) *
+the (PTE* - (A0* *
+arginosuccinate * - * *
+synthase *) - *) *
+involved * - * *
+in * - * *
+the * - * *
+arginine * - * *
+biosynthetic * - * *
+pathway * - * *
+, * - * *
+and * - * *
+metY (DNA*) - * (A1*)
+, * - * *
+which * - * *
+encodes * encode * (V*)
+one * - * *
+of * - * *
+the * - * *
+two * - * *
+methionine * - * *
+tRNA * - * *
+initiators * - * *
+, * - * *
+tRNAf2Met (PTE*) - * (A0*)
+. * - * *
+
+Binding * bind (V*) *
+of * - * *
+the (PTE* - (A1* *
+TorR * - * *
+regulator *) - *) *
+to * - * *
+cis-acting (DNA* - (A7* *
+direct * - * *
+repeats *) - *) *
+activates * - * *
+tor (DNA* - * (A0*
+operon *) - * *)
+expression * express * (V*)
+. * - * *
+
+In * - * *
+this * - * *
+study * - * *
+, * - * *
+uvrA (PRC* - (A0* *
+gene * - * *
+expression *) - *) *
+was * - * *
+repressed * repress (V*) *
+when * - * *
+ArcA (PTE*) - * (A0*)
+was * - * *
+induced * induce * (V*)
+in * - * (A2*
+E (ORG* - * *
+. * - * *
+coli *) - * *)
+. * - * *
+
+The (DNA* - (A1* (A1*
+rpoS * - * *
+gene *) - *) *)
+, * - * *
+encoding * encode (V*) *
+a (PTE* - (A0* *
+known * - * *
+positive * - * *
+regulator *) - *) *
+of * - * *
+curli * - * *
+synthesis * - * *
+, * - * *
+and * - * *
+the * - * *
+E * - * *
+. * - * *
+coli * - * *
+open * - * *
+reading * - * *
+frame * - * *
+( * - * *
+ORF * - * *
+) * - * *
+of * - * *
+unknown * - * *
+function * - * *
+, * - * *
+yehV (DNA*) - * *
+, * - * *
+identified * - * *
+on * - * *
+each * - * *
+of * - * *
+these * - * *
+cosmids * - * *
+, * - * *
+respectively * - * *
+, * - * *
+conferred * confer * (V*)
+curli * - * (A0*
+production * - * *)
+and * - * *
+HA * - * *
+to * - * *
+E * - * *
+. * - * *
+coli * - * *
+HB101 * - * *
+. * - * *
+
+Thus * - * *
+, * - * *
+FNR (PTE*) - (A1*) *
+can * - * *
+respond * respond (V*) *
+to * - * *
+not * - * *
+only * - * *
+O (EXP* - (A0* *
+( * - * *
+2 * - * *
+) *) - *) *
+, * - * *
+but * - * *
+also * - * *
+NO (EXP*) - * *
+, * - * *
+with * - * *
+major * - * *
+implications * - * *
+for * - * *
+global (DNA* - * (A0*
+gene *) - * *)
+regulation * regulation * (V*)
+in * - * (A2*
+bacteria * - * *)
+. (ORG*) - * *
+
+Recombinant (PTE* - *
+NFAT1 *) - *
+can * - *
+mediate * - *
+transcription * transcription (V*)
+of * - *
+the (EXP* - (A0*
+interleukin-2 *) - *)
+, * - *
+interleukin-4 (EXP*) - *
+, * - *
+tumor (EXP* - *
+necrosis * - *
+factor * - *
+alpha *) - *
+, * - *
+and * - *
+granulocyte-macrophage (DNA* - *
+colony-stimulating * - *
+factor * - *
+promoters *) - *
+in * - (A2*
+T (ORG* - *
+cells *) - *)
+, * - *
+suggesting * - *
+that * - *
+NFAT1 (PTE*) - *
+contributes * - *
+to * - *
+the * - *
+CsA-sensitive * - *
+transcription * - *
+of * - *
+these (DNA* - *
+genes *) - *
+during * - *
+the * - *
+immune * - *
+response * - *
+. * - *
+
+Overexpression * overexpress (V*) *
+of * - * *
+SNURF (PTE*) - (A0*) *
+in * - (A2* *
+cultured (ORG* - * *
+mammalian * - * *
+cells *) - *) *
+enhanced * - * *
+not * - * *
+only * - * *
+androgen * - * *
+, * - * *
+glucocorticoid * - * *
+, * - * *
+and * - * *
+progesterone * - * *
+receptor-dependent * - * *
+transactivation * - * *
+but * - * *
+also * - * *
+basal * - * *
+transcription * transcription * (V*)
+from * - * *
+steroid-regulated (DNA* - * (A6*
+promoters *) - * *)
+. * - * *
+
+The * - *
+design * - *
+of * - *
+a * - *
+new * - *
+mutation * - *
+model * - *
+for * - *
+active * - *
+genes * - *
+: * - *
+expression * express (V*)
+of * - *
+the (DNA* - (A0*
+Escherichia * - *
+coli * - *
+lac * - *
+operon *) - *)
+in * - *
+mammalian (ORG* - (A2*
+cells *) - *)
+. * - *
+
+We * - *
+characterized * - *
+the (DNA* - (A1*
+gntT * - *
+gene *) - *)
+encoding * encode (V*)
+a (PTE* - (A0*
+high-affinity * - *
+gluconate * - *
+permease *) - *)
+of * - *
+Escherichia * - *
+coli * - *
+K-12 * - *
+. * - *
+
+Mar (None* - (A1*
+( * - *
+multiple * - *
+antibiotic * - *
+resistant * - *
+) * - *
+mutants *) - *)
+of * - *
+Escherichia * - *
+coli * - *
+express * express (V*)
+chromosomally * - (A5*
+mediated * - *)
+resistance * - (A0*
+to * - *
+a * - *
+variety * - *
+of * - *
+structurally * - *
+unrelated * - *
+hydrophilic * - *
+and * - *
+hydrophobic * - *
+antibiotics * - *)
+. * - *
+
+The (DNA* - (A1*
+UAS *) - *)
+situated * - *
+within * - *
+IR1 * - *
+is * - *
+responsible * - *
+for * - *
+activation * activate (V*)
+of * - *
+the (DNA* - (A0*
+hyc * - *
+operon *) - *)
+, * - *
+that * - *
+within * - *
+IR2 * - *
+for * - *
+activation * - *
+of * - *
+the * - *
+hyp * - *
+operon * - *
+. * - *
+
+However * - *
+, * - *
+this * - *
+minimal * - *
+set * - *
+of * - *
+factors * - *
+is * - *
+not * - *
+sufficient * - *
+for * - *
+transcription * - *
+when * - *
+the * - (A0*
+DNA * - *
+template * - *)
+is * - *
+packaged * package (V*)
+into * - *
+chromatin * - (A7*)
+. * - *
+
+Escherichia * - *
+coli * - *
+possesses * - *
+two * - *
+systems * - *
+, * - *
+GntI * - *
+and * - *
+GntII * - *
+, * - *
+for * - *
+gluconate * - *
+uptake * - *
+and * - *
+catabolism * - *
+, * - *
+whose (DNA* - (A0*
+genes *) - *)
+are * - *
+regulated * regulate (V*)
+by * - *
+GntR (PTE*) - (A1*)
+as * - *
+a * - *
+repressor * - *
+and * - *
+GntH (PTE*) - *
+as * - *
+an * - *
+activator * - *
+, * - *
+respectively * - *
+. * - *
+
+ArgR-independent * - (A5*) *
+induction * induce (V*) *
+and * - * *
+ArgR-dependent * - * (A5*)
+superinduction * superinduce * (V*)
+of * - * *
+the (DNA* - (A0* (A0*
+astCADBE * - * *
+operon *) - *) *)
+in * - (A2* (A2*
+Escherichia (ORG* - * *
+coli *) - *) *)
+. * - * *
+
+P1 * - *
+transduction * transduction (V*)
+of * - *
+marA (DNA* - (A0*
+: * - *
+: * - *
+Tn5 *) - *)
+into * - *
+a (None* - (A7*
+Mar * - *
+mutant *) - *)
+partially * - *
+restored * - *
+OmpF * - *
+levels * - *
+. * - *
+
+One * - *
+component * - *
+( * - *
+hRPC39 (PTE*) - (A1*)
+) * - *
+of * - *
+this * - *
+subcomplex * - *
+interacts * interact (V*)
+physically * - *
+with * - *
+both * - *
+hTBP (PTE*) - (A1*)
+and * - *
+hTFIIIB90 (PTE*) - *
+, * - *
+two * - *
+subunits * - *
+of * - *
+human * - *
+RNA * - *
+Pol * - *
+III * - *
+transcription * - *
+initiation * - *
+factor * - *
+IIIB * - *
+. * - *
+
+TFIIB (PTE*) - (A1*)
+binds * bind (V*)
+FREAC-2 (PTE*) - (A7*)
+close * - *
+to * - *
+the * - *
+cleft * - *
+between * - *
+its * - *
+two * - *
+globular * - *
+domains * - *
+. * - *
+
+The (PTE* - (A1*
+other * - *
+IRF * - *
+family * - *
+proteins *) - *)
+bind * bind (V*)
+DNA (DNA*) - (A7*)
+with * - *
+a * - *
+specificity * - *
+related * - *
+to * - *
+but * - *
+distinct * - *
+from * - *
+that * - *
+of * - *
+ISGF3 * - *
+gamma * - *
+. * - *
+
+Although * - *
+Stat2 (PTE*) - (A1*)
+is * - *
+a * - *
+potent * - *
+transactivator * - *
+, * - *
+it * - *
+does * - *
+not * - *
+interact * interact (V*)
+stably * - *
+with * - *
+DNA (DNA*) - (A1*)
+in * - *
+complex * - *
+with * - *
+p48 * - *
+alone * - *
+. * - *
+
+Here * - *
+we * - *
+report * - *
+that * - *
+the (DNA* - *
+murine * - *
+PU * - *
+. * - *
+1 * - *
+promoter *) - *
+, * - *
+as * - *
+well * - *
+as * - *
+the (DNA* - *
+human * - *
+promoter *) - *
+, * - *
+demonstrate * - *
+tissue-specific * - (A5*)
+reporter (DNA* - (A0*
+gene *) - *)
+expression * express (V*)
+in * - *
+myeloid (ORG* - *
+cell * - *
+lines *) - *
+but * - *
+not * - *
+in * - *
+T * - *
+cells * - *
+and * - *
+HeLa * - *
+( * - *
+non-hematopoietic * - *
+cells * - *
+) * - *
+cells * - *
+. * - *
+
+The * - *
+binding * bind (V*)
+of * - *
+GntR (PTE*) - (A1*)
+to * - *
+these * - (A7*
+sites * - *)
+was * - *
+proven * - *
+in * - *
+vitro * - *
+by * - *
+gel * - *
+redardation * - *
+assays * - *
+and * - *
+in * - *
+vivo * - *
+by * - *
+site-directed * - *
+mutagenesis * - *
+of * - *
+the * - *
+binding * - *
+sites * - *
+. * - *
+
+Here * - *
+, * - *
+we * - *
+present * - *
+new * - *
+evidence * - *
+that * - *
+the * - *
+ubiquitously * - *
+expressed * - *
+isoform * - *
+dynamin-2 * - *
+( * - *
+dyn2 (PTE*) - (A0*)
+) * - *
+can * - *
+also * - *
+function * function (V*)
+in * - *
+a * - (A4*
+signal * - *
+transduction * - *
+pathway * - *
+( * - *
+s * - *)
+) * - *
+. * - *
+
+Effects * - * *
+of * - * *
+nitrate * - * *
+respiration * - * *
+on * - * *
+expression * express (V*) *
+of * - * *
+the (DNA* - (A0* (A1*
+Arc-controlled * - * *
+operons *) - *) *)
+encoding * encode * (V*)
+succinate (PTE* - * (A0*
+dehydrogenase *) - * *)
+and * - * *
+flavin-linked (PTE* - * *
+L-lactate * - * *
+dehydrogenase *) - * *
+. * - * *
+
+We * - *
+now * - *
+show * - *
+that * - *
+NarL * - *
+can * - *
+displace * - *
+IHF (PTE*) - (A1*)
+bound * bound (V*)
+at * - *
+the (PTE* - (A7*
+IHF * - *
+I * - *
+site *) - *)
+, * - *
+but * - *
+IHF * - *
+is * - *
+unable * - *
+to * - *
+displace * - *
+bound * - *
+NarL * - *
+. * - *
+
+Regulation * - * *
+of * - * *
+expression * express (V*) *
+of * - * *
+the (DNA* - (A0* (A0*
+divergent * - * *
+ulaG * - * *
+and * - * *
+ulaABCDEF * - * *
+operons *) - *) *)
+involved * involve * (V*)
+in * - * *
+LaAscorbate * - * (A4*
+dissimilation * - * *)
+in * - * *
+Escherichia (ORG* - * (A2*
+coli *) - * *)
+. * - * *
+
+Expression * express (V*)
+of * - *
+a (DNA* - (A0*
+lacZ * - *
+reporter * - *
+gene *) - *)
+under * - *
+the * - *
+control * - *
+of * - *
+the * - *
+copA * - *
+promoter * - *
+was * - *
+approximately * - *
+proportional * - *
+to * - *
+the * - *
+concentration * - *
+of * - *
+cupric * - *
+ions * - *
+in * - *
+the * - *
+medium * - *
+, * - *
+but * - *
+increased * - *
+more * - *
+rapidly * - *
+in * - *
+response * - *
+to * - *
+silver (EXP* - *
+ion * - *
+concentrations *) - *
+. * - *
+
+OmpR (PTE*) - (A1*) *
+is * - * *
+a * - * *
+DNA-binding * - * *
+protein * - * *
+which * - * *
+acts * act (V*) *
+as * - * *
+both * - * *
+an (PTE* - (A8* *
+activator *) - *) *
+and * - * *
+a (PTE* - * *
+repressor *) - * *
+to * - * *
+control * - * *
+ompF (DNA*) - * (A0*)
+transcription * transcription * (V*)
+. * - * *
+
+Role * - *
+of * - *
+14-3-3 * - *
+eta * - *
+as * - *
+a * - *
+positive * - *
+regulator * - *
+of * - *
+the * - (A5*
+glucocorticoid * - *
+receptor * - *
+transcriptional * - *)
+activation * activate (V*)
+. * - *
+
+We * - * *
+show * - * *
+that * - * *
+expression * express (V*) *
+of * - * *
+hTAF (PTE*) - (A0* *
+( * - * *
+II * - * *
+) * - * *
+135 * - *) *
+in * - (A2* *
+mammalian * - * *
+cells * - *) *
+strongly * - * *
+and * - * *
+selectively * - * *
+potentiates * - * *
+transcriptional * - * (A5*)
+stimulation * stimulate * (V*)
+by * - * *
+the * - * *
+activation * - * *
+function-2 * - * *
+( * - * *
+AF-2 (PTE*) - * (A1*)
+) * - * *
+of * - * *
+the * - * *
+retinoic * - * *
+acid * - * *
+, * - * *
+thyroid * - * *
+hormone * - * *
+, * - * *
+and * - * *
+vitamin * - * *
+D3 * - * *
+receptors * - * *
+( * - * *
+RAR * - * *
+, * - * *
+TR * - * *
+, * - * *
+and * - * *
+VDR * - * *
+) * - * *
+, * - * *
+but * - * *
+does * - * *
+not * - * *
+affect * - * *
+the (PTE* - * *
+AF-2s *) - * *
+of * - * *
+the * - * *
+estrogen * - * *
+( * - * *
+ER * - * *
+) * - * *
+or * - * *
+retinoid * - * *
+X * - * *
+( * - * *
+RXR * - * *
+) * - * *
+receptors * - * *
+. * - * *
+
+Using * - *
+the * - *
+DNA-binding * - *
+domain * - *
+of * - *
+androgen * - *
+receptor * - *
+( * - *
+AR * - (A0*)
+) * - *
+as * - *
+a * - *
+bait * - *
+in * - *
+a * - *
+yeast * - *
+two-hybrid * - *
+screening * - *
+, * - *
+we * - *
+have * - *
+identified * - *
+a * - *
+small * - *
+nuclear * - *
+RING * - *
+finger * - *
+protein * - *
+, * - *
+termed * - *
+SNURF (PTE*) - (A0*)
+, * - *
+that * - *
+interacts * interact (V*)
+with * - *
+AR * - *
+in * - *
+a * - *
+hormone-dependent * - *
+fashion * - *
+in * - (A2*
+both * - *
+yeast * - *
+and * - *
+mammalian * - *
+cells * - *)
+. * - *
+
+Instead * - * *
+, * - * *
+it * - * (A1*)
+can * - * *
+act * - * *
+to * - * *
+repress * - * *
+the * - * *
+transcription * transcription (V*) *
+of * - * *
+E2F (DNA* - (A0* *
+responsive * - * *
+genes *) - *) *
+by * - * *
+countering * counter * (V*)
+the * - * (A0*
+activity * - * *
+of * - * *
+the (PTE* - * *
+other * - * *
+E2F * - * *
+complexes *) - * *)
+via * - * *
+a * - * *
+pRB- * - * *
+, * - * *
+p107- * - * *
+, * - * *
+or * - * *
+p130-independent * - * *
+mechanism * - * *
+. * - * *
+
+We * - *
+describe * - *
+the * - *
+cloning * - *
+and * - *
+sequence * - *
+analysis * - *
+of * - *
+a * - *
+nearly * - *
+full-length * - *
+cDNA * - *
+as * - *
+well * - *
+as * - *
+a (DNA* - (A1*
+corresponding * - *
+5 * - *
+. * - *
+2-kilobase * - *
+pair * - *
+genomic * - *
+fragment *) - *)
+encoding * encode (V*)
+FREAC-4 (PTE*) - (A0*)
+, * - *
+a * - *
+member * - *
+of * - *
+the * - *
+forkhead * - *
+family * - *
+of * - *
+transcription * - *
+factors * - *
+. * - *
+
+The (PTE* - * *
+cyclic * - * *
+AMP-CRP * - * *
+complex *) - * *
+was * - * *
+shown * - * *
+to * - * *
+stimulate * - * *
+transcription * transcription (V*) *
+from * - * *
+Pmcc (DNA*) - (A6*) *
+: * - * *
+the * - * *
+absence * - * *
+of * - * *
+CRP (PTE* - * *
+or * - * *
+cAMP *) - * *
+in * - * *
+crp (None* - * *
+or * - * *
+cya * - * *
+mutant * - * *
+cells *) - * *
+strongly * - * *
+decreased * - * *
+the * - * *
+level * - * *
+of * - * *
+P * - * *
+( * - * *
+mcc * - * *
+) * - * *
+-lac (DNA*) - * (A0*)
+expression * express * (V*)
+. * - * *
+
+The * - *
+results * - *
+provide * - *
+insight * - *
+into * - *
+a * - *
+mechanism * - *
+whereby * - *
+altered (PRC*) - *
+expression * express (V*)
+of * - *
+Bcl-3 (DNA*) - (A0*)
+leads * - *
+to * - *
+tumorigenic * - *
+potential * - *
+. * - *
+
+Previous * - *
+studies * - *
+indicated * - *
+that * - *
+its * - (A0*
+complementary * - *
+expression * - *)
+together * - *
+with * - *
+MAP1B * - *
+during * - *
+nervous * - *
+system * - *
+development * - *
+is * - *
+regulated * regulate (V*)
+at * - *
+the (PRC* - (A4*
+transcriptional * - *
+level *) - *)
+and * - *
+that * - *
+the (DNA* - *
+mouse * - *
+Map1A * - *
+gene *) - *
+is * - *
+transcribed * - *
+under * - *
+the * - *
+control * - *
+of * - *
+5' (DNA* - *
+and * - *
+intronic * - *
+promoters *) - *
+. * - *
+
+To * - * *
+assess * - * *
+the * - * *
+possible * - * *
+effects * - * *
+of * - * *
+HBV * - * *
+regulatory * - * *
+sequences * - * *
+( * - * *
+e * - * *
+. * - * *
+g * - * *
+. * - * *
+, * - * *
+the * - * *
+enhancer * - * *
+) * - * *
+on * - * *
+expression * express (V*) *
+of * - * *
+neighboring (DNA* - (A0* *
+host * - * *
+genes *) - *) *
+we * - * *
+have * - * *
+screened * - * *
+for * - * *
+cellular (DNA* - * (A0*
+genes *) - * *)
+that * - * *
+are * - * *
+both * - * *
+overexpressed * overexpress * (V*)
+and * - * *
+adjacent * - * *
+to * - * *
+integrated * - * *
+HBV * - * *
+sequences * - * *
+in * - * (A2*
+hepatocellular (ORG* - * *
+carcinoma * - * *
+cells *) - * *)
+. * - * *
+
+Northern * - *
+blot * - *
+analysis * - *
+revealed * - *
+that * - *
+a * - (A0*
+1 * - *
+. * - *
+9-kb * - *
+band * - *
+of * - *
+human (DNA* - *
+SOX18 * - *
+messenger * - *
+RNAs *) - *)
+was * - *
+predominantly * - (A5*)
+expressed * express (V*)
+in * - *
+heart * - (A4*)
+, * - *
+although * - *
+weak * - *
+signals * - *
+were * - *
+seen * - *
+in * - *
+brain * - *
+, * - *
+liver * - *
+, * - *
+testis * - *
+, * - *
+and * - *
+leukocyte * - *
+. * - *
+
+The (DNA* - (A1*
+gene *) - *)
+encodes * encode (V*)
+a (PTE* - (A0*
+predicted * - *
+protein * - *
+of * - *
+520 * - *
+amino * - *
+acids *) - *)
+that * - *
+is * - *
+47 * - *
+amino * - *
+acids * - *
+longer * - *
+at * - *
+the * - *
+carboxy * - *
+end * - *
+than * - *
+the * - *
+highly * - *
+related * - *
+PAX3 * - *
+protein * - *
+. * - *
+
+This * - *
+order * - *
+of * - *
+affinities * - *
+is * - *
+the * - *
+reverse * - *
+of * - *
+that * - *
+of * - *
+GalR (PTE*) - (A1*)
+, * - *
+which * - *
+binds * bind (V*)
+most * - *
+strongly * - *
+to * - *
+the (DNA* - (A0*
+operator *) - *
+of * - *
+galP * - *)
+and * - *
+most * - *
+weakly * - *
+to * - *
+that * - *
+of * - *
+mgl * - *
+. (DNA*) - *
+
+The (DNA* - (A1*
+gene * - *
+yjfQ *) - *)
+encodes * encode (V*)
+the (PTE* - (A0*
+repressor *) - *)
+of * - *
+the * - *
+yjfR-X * - *
+regulon * - *
+( * - *
+ula * - *
+) * - *
+, * - *
+which * - *
+is * - *
+involved * - *
+in * - *
+L-ascorbate * - *
+metabolism * - *
+in * - *
+Escherichia * - *
+coli * - *
+. * - *
+
+Collaborative * - (A5*)
+regulation * regulation (V*)
+of * - *
+Escherichia * - (A0*
+coli * - *
+glutamate-dependent * - *
+acid * - *
+resistance * - *)
+by * - *
+two * - *
+AraC-like * - *
+regulators * - *
+, * - *
+GadX (PTE*) - (A1*)
+and * - *
+GadW (PTE*) - *
+( * - *
+YhiW * - *
+) * - *
+. * - *
+
+By * - * *
+combining * - * *
+Taz (PTE*) - * (A1*)
+with * - * *
+a * - (A1* *
+reporter * - * *
+system * - *) *
+that * - * *
+expresses * express (V*) *
+green * - * *
+fluorescent * - * *
+protein * - * *
+( * - * *
+GFP (PTE*) - (A0*) *
+) * - * *
+from * - * *
+the (DNA* - (A6* *
+ompC * - * *
+promoter *) - *) *
+, * - * *
+we * - * *
+were * - * *
+able * - * *
+to * - * *
+examine * - * *
+the * - * *
+interaction * interact * (V*)
+of * - * *
+Taz * - * *
+with * - * *
+all (PTE* - * (A1*
+20 * - * *
+natural * - * *
+amino * - * *
+acids *) - * *)
+. * - * *
+
+Overexpression * overexpress (V*) * * *
+of * - * * * *
+yhiE (DNA*) - (A0*) * * *
+, * - * * * *
+similarly * - * * * *
+to * - * * * *
+overexpression * overexpression * (V*) * *
+of * - * * * *
+gadX (PTE*) - * (A0*) * *
+, * - * * * *
+a * - * * * *
+known * - * * * *
+regulator * - * * * *
+of * - * * * *
+glutamate (PTE* - * * (A0* *
+decarboxylase *) - * * *) *
+expression * express * * (V*) *
+, * - * * * *
+leads * - * * * *
+to * - * * * *
+increased * - * * * *
+resistance * - * * * *
+of * - * * * *
+E * - * * * *
+. * - * * * *
+coli * - * * * *
+strains * - * * * *
+under * - * * * *
+high * - * * * *
+acid * - * * * *
+conditions * - * * * *
+, * - * * * *
+suggesting * - * * * *
+that * - * * * *
+YhiE * - * * * *
+is * - * * * *
+a * - * * * *
+regulator * - * * * *
+of * - * * * *
+gene (DNA*) - * * * (A0*)
+expression * express * * * (V*)
+in * - * * * *
+the * - * * * (A12*
+acid * - * * * *
+response * - * * * *)
+. * - * * * *
+
+Lrp (PTE*) - (A1*)
+binds * bind (V*)
+specifically * - (A5*)
+to * - *
+the (DNA* - (A7*
+intergenic * - *
+region *) - *)
+between * - *
+micF * - *
+and * - *
+ompC * - *
+, * - *
+as * - *
+indicated * - *
+by * - *
+mobility * - *
+shift * - *
+assays * - *
+and * - *
+by * - *
+DNase * - *
+I * - *
+footprinting * - *
+. * - *
+
+This * - * *
+opposite * - * *
+regulation * - * *
+of * - * *
+the * - * *
+transcription * transcription (V*) *
+of * - * *
+the (DNA* - (A0* *
+two * - * *
+HU * - * *
+genes *) - *) *
+is * - * *
+reflected * - * *
+at * - * *
+the * - * *
+protein * - * *
+level * - * *
+signifying * - * *
+that * - * *
+changes * change * (V*)
+in * - * *
+the * - * (A0*
+composition * - * *)
+of * - * *
+HU * - * *
+occur * - * *
+upon * - * *
+changes * - * *
+in * - * *
+the * - * *
+environment * - * *
+. * - * *
+
+A (None* - * (A0*
+mutant * - * *
+strain *) - * *)
+of * - * *
+E * - * *
+. * - * *
+coli * - * *
+displaying * - * *
+altered * - * *
+regulation * regulation (V*) *
+of * - * *
+the (DNA* - (A0* *
+recA * - * *
+gene *) - *) *
+was * - * *
+isolated * isolate * (V*)
+as * - * *
+a * - * (A4*
+revertant * - * *
+of * - * *
+a (None* - * *
+lexA3 * - * *
+recA200 * - * *
+double * - * *
+mutant *) - * *
+which * - * *)
+showed * - * *
+improved * - * *
+DNA * - * *
+repair * - * *
+and * - * *
+recombination * - * *
+functions * - * *
+. * - * *
+
+Recently * - * *
+, * - * *
+it * - * *
+has * - * *
+been * - * *
+proposed * - * *
+that * - * *
+ligand-activated * - * *
+degradation * - * *
+of * - * *
+GR (PTE*) - (A0*) *
+occurs * - * *
+via * - * *
+the * - * *
+ubiquitin-proteasomal * - * *
+degradation * - * *
+pathway * - * *
+and * - * *
+that * - * *
+inhibition * - (A1*) (A1*)
+of * - * *
+proteasomal * - * *
+activity * - * *
+induces * - * *
+up-regulation * upregulate (V*) *
+of * - * *
+GR (PTE*) - * *
+and * - * *
+enhances * enhance * (V*)
+the * - * (A0*
+transcriptional * - * *
+activity * - * *
+of * - * *
+GR * - * *)
+. * - * *
+
+In * - * * *
+Escherichia * - * * *
+coli * - * * *
+, * - * * *
+the (PTE* - (A0* * *
+transcription * - * * *
+factor * - * * *
+sigma * - * * *
+s *) - *) * *
+, * - * * *
+encoded * encode (V*) * *
+by * - * * *
+rpoS (DNA*) - (A1*) * *
+, * - * * *
+controls * - * * *
+the * - * * *
+expression * express * (V*) *
+of * - * * *
+a * - * * *
+large * - * * *
+number * - * * *
+of * - * * *
+genes (DNA*) - * (A0*) (A1*)
+involved * involve * * (V*)
+in * - * * *
+cellular * - * * (A8*
+responses * - * * *)
+to * - * * *
+a * - * * *
+diverse * - * * *
+number * - * * *
+of * - * * *
+stresses * - * * *
+, * - * * *
+including * - * * *
+starvation * - * * *
+, * - * * *
+osmotic * - * * *
+stress * - * * *
+, * - * * *
+acid * - * * *
+shock * - * * *
+, * - * * *
+cold * - * * *
+shock * - * * *
+, * - * * *
+heat * - * * *
+shock * - * * *
+, * - * * *
+oxidative * - * * *
+DNA * - * * *
+damage * - * * *
+, * - * * *
+and * - * * *
+transition * - * * *
+to * - * * *
+stationary * - * * *
+phase * - * * *
+. * - * * *
+
+Expression * - * *
+, * - * *
+cellular * - * *
+localization * - * *
+and * - * *
+in * - * *
+vitro * - * *
+transcription (PRC*) - * (A0*)
+studies * - * *
+establish * - * *
+that * - * *
+cloned (PTE* - (A1* *
+hUBF *) - *) *
+encodes * encode (V*) *
+a * - (A0* *
+nucleolar * - * *
+factor * - *) *
+that * - * *
+binds * - * *
+specifically * - * *
+to * - * *
+the (DNA* - * *
+upstream * - * *
+control * - * *
+element * - * *
+and * - * *
+core *) - * *
+of * - * *
+the (DNA* - * *
+rRNA * - * *
+gene * - * *
+promoter *) - * *
+to * - * *
+activate * activate * (V*)
+transcription * - * *
+in * - * *
+a * - * (A5*
+binding * - * *
+site-dependent * - * *
+manner * - * *)
+. * - * *
+
+Unlike * - *
+Rev-Erb * - *
+, * - *
+in * - *
+which * - *
+the (DNA* - (A1*
+opposite * - *
+strand *) - *)
+of * - *
+the * - *
+C-terminal * - *
+coding * - *
+region * - *
+encodes * encode (V*)
+the (PTE* - (A0*
+C-terminal * - *
+portion *) - *)
+of * - *
+a * - *
+variant * - *
+thyroid * - *
+hormone * - *
+receptor * - *
+isoform * - *
+, * - *
+the * - *
+opposite * - *
+strand * - *
+of * - *
+the * - *
+C-terminal * - *
+coding * - *
+region * - *
+of * - *
+BD73 * - *
+does * - *
+not * - *
+have * - *
+any * - *
+extensive * - *
+open * - *
+reading * - *
+frames * - *
+. * - *
+
+The * - *
+SRY (DNA*) - (A1*)
+( * - *
+sex-determining * - *
+region * - *
+Y * - *
+) * - *
+gene * - *
+encodes * encode (V*)
+a (PTE* - (A0*
+transcription * - *
+factor *) - *)
+characterized * - *
+by * - *
+a * - *
+DNA-binding * - *
+motif * - *
+termed * - *
+the * - *
+HMG * - *
+( * - *
+high * - *
+mobility * - *
+group * - *
+) * - *
+domain * - *
+. * - *
+
+Upon * - *
+return * - *
+to * - *
+permissive * - *
+temperature * - *
+( * - *
+30 * - *
+degrees * - *
+C * - *
+) * - *
+, * - *
+the (DNA* - (A0*
+transcripts *) - *)
+reappeared * reappear (V*)
+coordinately * - *
+about * - *
+15 * - *
+min * - *
+after * - *
+the * - *
+first * - *
+synchronized * - *
+initiation * - *
+and * - *
+then * - *
+declined * - *
+sharply * - *
+again * - *
+10 * - *
+min * - *
+later * - *
+, * - *
+just * - *
+before * - *
+the * - *
+second * - *
+initiation * - *
+. * - *
+
+We * - *
+argue * - *
+that * - *
+, * - *
+in * - *
+the * - *
+presence * - *
+of * - *
+melibiose (EXP*) - (A3*)
+, * - *
+this * - *
+loop * - *
+is * - *
+broken * - *
+as * - *
+the (DNA* - (A0*
+melAB * - *
+promoter *) - *)
+is * - *
+activated * activate (V*)
+. * - *
+
+To * - *
+decipher * - *
+the * - *
+mechanism * - *
+of * - *
+Rb * - *
+function * - *
+at * - *
+the * - *
+molecular * - *
+level * - *
+, * - *
+we * - *
+have * - *
+systematically * - *
+characterized * - *
+a * - *
+number * - *
+of * - *
+Rb-interacting * - *
+proteins * - *
+, * - *
+among * - *
+which * - *
+is * - *
+the (DNA* - (A1*
+clone * - *
+C5 *) - *)
+described * - *
+here * - *
+, * - *
+which * - *
+encodes * encode (V*)
+a (PTE* - (A0*
+protein * - *
+of * - *
+1 * - *
+, * - *
+978 * - *
+amino * - *
+acids *) - *)
+with * - *
+an * - *
+estimated * - *
+molecular * - *
+mass * - *
+of * - *
+230 * - *
+kDa * - *
+. * - *
+
+Recombinant (PTE* - *
+ISGF3 * - *
+gamma *) - *
+, * - *
+like * - *
+the * - *
+natural * - *
+protein * - *
+, * - *
+interacted * - *
+with * - *
+HeLa (PTE* - *
+cell * - *
+ISGF3 * - *
+alpha *) - *
+to * - *
+form * form (V*)
+the (PTE* - (A0*
+mature * - *
+ISGF3 * - *
+DNA-binding * - *
+complex *) - *)
+. * - *
+
+IHF (PTE*) - (A1*) (A1*)
+binds * bind (V*) *
+to * - * *
+ompC (DNA* - (A7* *
+DNA *) - *) *
+and * - * *
+protects * protect * (V*)
+a (DNA* - * (A0*
+region *) - * *)
+of * - * *
+35 * - * *
+base * - * *
+pairs * - * *
+located * - * *
+upstream * - * *
+from * - * *
+the * - * *
+ompC * - * *
+promoters * - * *
+. * - * *
+
+Gluconate-specific * - (A0* *
+uptake * - * *
+activity * - *) *
+was * - * *
+observed * - * *
+with * - * *
+cells * - * *
+harboring * - * *
+the * - * *
+gntT * - * *
+plasmid * - * *
+clone * - * *
+, * - * *
+which * - * *
+was * - * *
+enhanced * enhance (V*) *
+by * - * *
+the * - (A1* *
+presence * - * *
+of * - * *
+gntK * - *) *
+encoding * encode * (V*)
+gluconate (PTE* - * (A0*
+kinase *) - * *)
+. (DNA*) - * (A1*)
+
+The (PTE* - * (A1*
+leucine-responsive * - * *
+regulatory * - * *
+protein *) - * *)
+of * - * *
+Escherichia * - * *
+coli * - * *
+negatively * - * *
+regulates * - * *
+transcription * transcription (V*) *
+of * - * *
+ompC (DNA* - (A0* *
+and * - * *
+micF *) - *) *
+and * - * *
+positively * - * (A5*)
+regulates * regulate * (V*)
+translation * - * (A0*)
+of * - * *
+ompF * - * *
+. * - * *
+
+Binding * bind (V*) *
+of * - * *
+XylR (PTE*) - (A1*) *
+to * - * *
+the (DNA* - (A7* *
+xyl * - * *
+promoter *) - *) *
+was * - * *
+enhanced * - * *
+by * - * *
+the * - * *
+presence * - * *
+of * - * *
+D-xylose (EXP*) - * *
+, * - * *
+suggesting * - * *
+that * - * *
+transcription (PRC*) - * (A0*)
+was * - * *
+positively * - * (A5*)
+regulated * regulate * (V*)
+by * - * *
+XylR (PTE*) - * (A1*)
+. * - * *
+
+Features * - * *
+of * - * *
+the (None* - (A0* *
+strain *) - *) *
+carrying * carry (V*) *
+the (DNA* - (A4* *
+cpxA101 * - * *
+mutation *) - *) *
+are * - * *
+a * - * *
+reduced * - * *
+ability * - * *
+to * - * *
+form * - * *
+biofilm * - * *
+and * - * *
+low * - * *
+levels * - * *
+of * - * *
+csgA (DNA*) - * (A0*)
+transcription * transcription * (V*)
+. * - * *
+
+The (DNA* - (A1*
+two * - *
+MelR * - *
+binding * - *
+sites *) - *)
+required * require (V*)
+for * - *
+this (PRC* - (A11*
+optimal * - *
+repression *) - *)
+are * - *
+separated * - *
+by * - *
+177 * - *
+bp * - *
+. * - *
+
+In * - *
+addition * - *
+, * - *
+eleven (DNA* - *
+mutants *) - *
+partially * - *
+affected * - *
+activin (PTE*) - (A0*)
+binding * bind (V*)
+to * - *
+ALK4 * - *
+. * - *
+
+As * - *
+the * - *
+governor * - *
+sites * - *
+are * - *
+themselves * - *
+far * - *
+from * - *
+the * - *
+promoter * - *
+, * - *
+they * - *
+apparently * - *
+act * - *
+either * - *
+by * - *
+preventing * - *
+the * - *
+formation * - *
+of * - *
+the * - *
+activation * - *
+DNA * - *
+loop * - *
+that * - *
+brings * - *
+the * - *
+enhancer-bound (PTE* - (A1*
+activator *) - *)
+and * - *
+the * - *
+promoter-bound * - *
+polymerase (PTE*) - *
+into * - *
+proximity * - *
+or * - *
+by * - *
+preventing * - *
+a * - *
+productive * - *
+interaction * interact (V*)
+between * - *
+the * - *
+enhancer-bound * - *
+activator * - *
+and * - *
+polymerase * - *
+. * - *
+
+Thus * - *
+this * - *
+effect * - *
+of * - *
+iron * - *
+was * - *
+also * - *
+seen * - *
+in * - *
+a * - *
+sodA * - *
+: * - *
+: * - *
+lacZ * - *
+operon * - *
+fusion * - *
+in * - *
+which * - *
+the * - (A0*
+production * - *)
+of * - *
+beta-galactosidase * - *
+was * - *
+regulated * regulate (V*)
+by * - *
+the (DNA* - (A1*
+sodA * - *
+promoter *) - *)
+. * - *
+
+Several * - * *
+other * - * *
+genes * - * *
+including * - * *
+the (DNA* - (A1* *
+sdhA-D *) - * *
+, * - * *
+sucA-D * - *) *
+, * - * *
+and * - * *
+fumA (DNA* - * *
+genes *) - * *
+, * - * *
+encoding * encode (V*) *
+key * - (A0* *
+constituents * - * *
+of * - * *
+the * - * *
+Krebs * - * *
+cycle * - *) *
+, * - * *
+proved * - * *
+to * - * *
+be * - * *
+repressed * - * *
+by * - * *
+the * - * *
+loss * lose * (V*)
+of * - * *
+both (PTE* - * (A0*
+transcription * - * *
+factors *) - * *)
+. * - * *
+
+PA-coenzyme * - *
+A * - *
+( * - *
+PA-CoA (PTE*) - *
+) * - *
+, * - *
+but * - *
+not * - *
+PA * - *
+, * - *
+specifically * - *
+inhibited * - *
+binding * bind (V*)
+of * - *
+PaaX (PTE*) - (A1*)
+to * - *
+the (DNA* - (A7*
+target * - *
+sequences *) - *)
+, * - *
+thus * - *
+confirming * - *
+the * - *
+first * - *
+intermediate * - *
+of * - *
+the * - *
+pathway * - *
+as * - *
+the * - *
+true * - *
+inducer * - *
+and * - *
+PaaX * - *
+as * - *
+the * - *
+only * - *
+bacterial * - *
+regulatory * - *
+protein * - *
+described * - *
+so * - *
+far * - *
+that * - *
+responds * - *
+to * - *
+an * - *
+aryl-CoA * - *
+compound * - *
+. * - *
+
+We * - *
+show * - *
+that * - *
+the (PTE* - (A1*
+cAMP-CRP * - *
+activator * - *
+complex *) - *)
+recognizes * recognize (V*)
+two (DNA* - (A0*
+sites *) - *)
+in * - (A2*
+tsx-p2 * - *)
+that * - *
+are * - *
+separated * - *
+by * - *
+33 * - *
+bp * - *
+: * - *
+a * - *
+high-affinity * - *
+site * - *
+( * - *
+CRP-1 * - *
+) * - *
+overlaps * - *
+the * - *
+-35 * - *
+region * - *
+, * - *
+and * - *
+a * - *
+low-affinity * - *
+site * - *
+( * - *
+CRP-2 * - *
+) * - *
+is * - *
+centered * - *
+around * - *
+position * - *
+-74 * - *
+bp * - *
+. (DNA*) - *
+
+Alteration * - * *
+by * - * *
+base (DNA*) - (A0*) *
+substitutions * substitute (V*) *
+of * - * *
+any (DNA* - * *
+of * - * *
+the * - * *
+four * - * *
+tor * - * *
+boxes *) - * *
+in * - * *
+a (DNA* - * *
+plasmid *) - * *
+containing * - * *
+a (DNA* - * *
+torC'-lacZ * - * *
+fusion *) - * *
+dramatically * - * *
+reduces * - * *
+TorR-dependent * - * (A5*)
+torC (DNA*) - * (A0*)
+expression * express * (V*)
+. * - * *
+
+These * - *
+results * - *
+suggest * - *
+that * - *
+the (PTE* - *
+response * - *
+regulator * - *
+ArcA *) - *
+regulates * - *
+expression * express (V*)
+of * - *
+enzyme * - *
+IICB * - *
+( * - *
+Glc (PTE*) - (A0*)
+) * - *
+mediating * - *
+the * - *
+first * - *
+step * - *
+of * - *
+glucose * - *
+metabolism * - *
+in * - *
+response * - *
+to * - *
+the * - *
+redox * - *
+conditions * - *
+of * - *
+growth * - *
+in * - *
+E * - *
+. * - *
+coli * - *
+. * - *
+
+Coexpression * - (A1*
+of * - *
+wild-type * - *
+Rb * - *)
+, * - *
+but * - *
+not * - *
+mutant * - *
+Rb * - *
+that * - *
+fails * - *
+to * - *
+bind * - *
+to * - *
+Trip230 * - *
+, * - *
+inhibits * inhibit (V*)
+such (PRC* - (A0*
+activity *) - *)
+. * - *
+
+We * - * *
+recently * - * *
+cloned * - * *
+murine (DNA* - (A1* *
+and * - * *
+human * - * *
+cDNAs *) - *) *
+that * - * *
+encode * encode (V*) *
+CP2 (PTE*) - (A0*) (A1*)
+, * - * *
+a * - * *
+cellular * - * *
+transcription * - * *
+factor * - * *
+that * - * *
+interacts * interact * (V*)
+with * - * *
+the (DNA* - * (A1*
+alpha-globin * - * *
+promoter *) - * *)
+as * - * *
+well * - * *
+as * - * *
+with * - * *
+additional (DNA* - * *
+cellular * - * *
+and * - * *
+viral * - * *
+promoter * - * *
+elements *) - * *
+. * - * *
+
+The (DNA* - (A1* *
+purR * - * *
+gene *) - *) *
+encodes * encode (V*) *
+a * - * *
+repressor * - * *
+( * - * *
+PurR (PTE*) - (A0*) *
+) * - * *
+controlling * - * *
+the * - * *
+synthesis * synthesize * (V*)
+of * - * *
+the (PTE* - * (A0*
+enzymes *) - * *)
+of * - * *
+purine * - * *
+biosynthesis * - * *
+. * - * *
+
+Because * - *
+the * - *
+metabolism * - *
+of * - *
+glucose * - *
+polymers * - *
+must * - *
+be * - *
+coordinated * - *
+with * - *
+both * - *
+the * - *
+anabolic * - *
+and * - *
+catabolic * - *
+uses * - *
+of * - *
+glucose * - *
+and * - *
+glycogen * - *
+, * - *
+an * - *
+intricate * - *
+set * - *
+of * - *
+regulatory * - *
+mechanisms * - *
+controls * - *
+the * - *
+expression * express (V*)
+of * - *
+mal (DNA* - (A0*
+genes *) - *)
+, * - *
+the * - *
+activity * - *
+of * - *
+the * - *
+maltose * - *
+transporter * - *
+, * - *
+and * - *
+the * - *
+activities * - *
+of * - *
+the * - *
+maltose/maltodextrin * - *
+catabolic * - *
+enzymes * - *
+. * - *
+
+In * - * *
+addition * - * *
+, * - * *
+both * - * *
+himA * - (A1* *
+and * - * *
+himD * - * *
+lesions * - *) *
+caused * cause (V*) *
+a * - (A0* (A9*
+sevenfold * - * *
+reduction * - *) *)
+in * - * *
+expression * express * (V*)
+of * - * *
+a (DNA* - * (A0*
+phi * - * *
+( * - * *
+fimA-lacZ * - * *
+) * - * *
+operon * - * *
+fusion *) - * *)
+in * - * (A2*
+strains * - * *)
+in * - * *
+which * - * *
+fimA * - * *
+was * - * *
+locked * - * *
+in * - * *
+the * - * *
+on * - * *
+phase * - * *
+. (None*) - * *
+
+Two * - *
+different * - *
+modes * - *
+of * - *
+transcription (PRC*) - (A5*)
+repression * repress (V*)
+of * - *
+the (DNA* - (A0*
+Escherichia * - *
+coli * - *
+acetate * - *
+operon *) - *)
+by * - *
+IclR (PTE*) - (A1*)
+. * - *
+
+Affinity-purified (PTE* - (A1* *
+human * - * *
+TFIIIC *) - *) *
+from * - * *
+an * - * *
+epitope-tagged * - * *
+TFIIIC35 * - * *
+cell * - * *
+line * - * *
+is * - * *
+active * - * *
+in * - * *
+binding * bind (V*) *
+to * - * *
+and * - * *
+in * - * *
+transcription * transcription * (V*)
+of * - * *
+the (DNA* - (A7* (A0*
+VA1 * - * *
+gene *) - *) *)
+in * - * (A5*
+vitro * - * *)
+. * - * *
+
+Integration * - *
+host * - *
+factor * - *
+( * - *
+IHF * - *
+) * - *
+of * - *
+Escherichia * - *
+coli * - *
+is * - *
+a (PTE* - *
+DNA-binding * - *
+protein *) - *
+involved * - *
+in * - *
+gene (DNA*) - (A0*)
+expression * express (V*)
+and * - *
+other * - *
+cellular * - *
+functions * - *
+in * - (A2*
+E (ORG* - *
+. * - *
+coli *) - *)
+and * - *
+some * - *
+of * - *
+its (ORG* - *
+bacteriophages * - *
+and * - *
+plasmids *) - *
+. * - *
+
+The * - *
+magnitude * - *
+of * - *
+the * - *
+synergistic * - *
+effects * - *
+was * - *
+usually * - *
+greater * - *
+with * - *
+just * - *
+two * - *
+activators * - *
+than * - *
+with * - *
+all * - *
+three * - *
+, * - *
+suggesting * - *
+possible * - *
+redundancies * - *
+in * - *
+the * - *
+mechanisms * - *
+of * - *
+activation * activate (V*)
+by * - *
+CRP (PTE*) - (A1*)
+, * - *
+alpha-CTD (PTE*) - *
+, * - *
+and * - *
+RhaR (PTE*) - *
+. * - *
+
+This * - *
+study * - *
+has * - *
+shown * - *
+that * - *
+ArgR (PTE*) - (A1*)
+does * - *
+not * - *
+act * act (V*)
+as * - *
+a (PTE* - (A8*
+transcriptional * - *
+repressor *) - *)
+of * - *
+P * - *
+( * - *
+cer * - *
+) * - *
+in * - *
+plasmid * - *
+monomers * - *
+. * - *
+
+Co-transfection (EXP*) - (A1*) * *
+of * - * * *
+PU (PTE* - * * (A1*
+. * - * * *
+1 *) - * * *)
+or * - * * *
+Spi-B * - * * *
+in * - * * *
+cells * - * * *
+lacking * - * * *
+PU * - * * *
+. * - * * *
+1 * - * * *
+and * - * * *
+Spi-B * - * * *
+specifically * - * * *
+transactivated * transactivate (V*) * *
+a (DNA* - (A0* (A0* *
+minimal * - * * *
+promoter *) - *) *) *
+containing * contain * (V*) *
+the * - * (A4* *
+PU * - * * *
+. * - * * *
+1 * - * * *
+binding * - * * *
+site * - * *) *
+, * - * * *
+indicating * - * * *
+that * - * * *
+PU * - * * *
+. * - * * *
+1 * - * * *
+can * - * * *
+activate * activate * * (V*)
+its (DNA* - * * (A0*
+own * - * * *
+promoter * - * * *
+elements *) - * * *)
+in * - * * *
+an * - * * (A5*
+autoregulatory * - * * *
+loop * - * * *)
+. * - * * *
+
+Thus * - *
+far * - *
+, * - *
+the * - *
+cAMP * - *
+receptor * - *
+protein * - *
+( * - *
+CRP * - *
+) * - *
+complex * - *
+and * - *
+Mlc * - *
+are * - *
+known * - *
+to * - *
+be * - *
+the * - *
+major * - *
+regulators * - *
+of * - *
+ptsHIcrr (DNA*) - (A0*)
+and * - *
+ptsG (DNA*) - *
+expression * express (V*)
+in * - *
+response * - *
+to * - *
+the * - (A3*
+availability * - *)
+of * - *
+carbon * - *
+sources * - *
+. * - *
+
+The * - *
+leucine-responsive * - *
+regulatory * - *
+protein * - *
+( * - *
+Lrp (PTE*) - *
+) * - *
+acts * - *
+as * - *
+a (PTE* - *
+specific * - *
+repressor *) - *
+for * - *
+sigma * - *
+s-dependent * - *
+transcription * transcription (V*)
+of * - *
+the * - (A0*
+Escherichia * - *
+coli * - *
+aidB * - *
+gene * - *)
+. * - *
+
+In * - * * *
+vitro * - * * *
+footprinting * - * * *
+showed * - * * *
+that * - * * *
+cyclic (PTE* - (A1* * *
+AMP-CRP *) - *) * *
+binds * bind (V*) * *
+to * - * * *
+a (DNA* - (A7* * *
+34-bp * - * * *
+site *) - *) * *
+centered * - * * *
+at * - * * *
+-53 * - * * *
+and * - * * *
+at * - * * *
+-75 * - * * *
+in * - * * *
+relation * - * * *
+to * - * * *
+the * - * * *
+start * - * * *
+sites * - * * *
+of * - * * *
+the (DNA* - * (A0* (A0*
+major * - * * *
+transcripts *) - * *) *)
+that * - * * *
+are * - * * *
+inhibited * inhibit * (V*) *
+and * - * * *
+activated * activate * * (V*)
+, * - * * *
+respectively * - * * *
+, * - * * *
+by * - * * *
+this (PTE* - * (A1* (A1*
+complex *) - * *) *)
+. * - * * *
+
+We * - * *
+have * - * *
+isolated * - * *
+a (DNA* - (A1* *
+full-length * - * *
+cDNA *) - *) *
+encoding * encode (V*) *
+a * - * *
+protein * - * *
+( * - * *
+ATBF1 (PTE*) - (A0*) (A1*)
+) * - * *
+that * - * *
+binds * bind * (V*)
+to * - * *
+an (DNA* - * *
+AT-rich * - * *
+motif *) - * *
+in * - * *
+the * - * *
+human * - * *
+alpha-fetoprotein * - * *
+gene * - * *
+enhancer * - * *
+. * - * *
+
+At * - *
+present * - *
+, * - *
+CytR * - *
+has * - *
+been * - *
+shown * - *
+to * - *
+'fine * - *
+tune' * - *
+transcription * transcription (V*)
+of * - *
+two * - *
+genes * - *
+( * - *
+rpoH (DNA*) - (A0*)
+and * - *
+ppiA (DNA*) - *
+) * - *
+that * - *
+are * - *
+connected * - *
+with * - *
+protein-folding * - *
+activities * - *
+. * - *
+
+GadW (PTE*) - (A1*) (A1*)
+clearly * - * *
+represses * repress (V*) *
+gadX (DNA*) - (A0*) *
+and * - * *
+, * - * *
+in * - * *
+situations * - * *
+where * - * *
+GadX (PTE*) - * (A3*
+is * - * *
+missing * - * *)
+, * - * *
+activates * activate * (V*)
+gadA (DNA*) - * (A0*)
+and * - * *
+gadBC (DNA*) - * *
+. * - * *
+
+Available * - *
+evidence * - *
+indicates * - *
+that * - *
+under * - *
+those * - *
+conditions * - *
+, * - *
+the (DNA* - (A1*
+upstream * - *
+promoter * - *
+region *) - *)
+acts * act (V*)
+as * - *
+a * - (A0*
+silencer * - *)
+of * - *
+the (DNA* - (A4*
+downstream * - *
+transcriptional * - *
+start * - *
+site *) - *)
+. * - *
+

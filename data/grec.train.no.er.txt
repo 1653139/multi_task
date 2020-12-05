@@ -1,0 +1,298 @@
+The - *
+Escherichia - *
+coli - *
+fructose - *
+repressor - *
+, - *
+FruR - *
+, - *
+is - *
+known - *
+to - *
+regulate - *
+expression express (V*)
+of - *
+several - (A0*
+genes - *)
+concerned - *
+with - *
+carbon - *
+utilization - *
+. - *
+
+spi-B - (A0*)
+, - *
+like - *
+spi-1 - *
+, - *
+was - *
+found - *
+to - *
+be - *
+expressed express (V*)
+in - (A2*
+various - *
+murine - *
+and - *
+human - *
+hematopoietic - *
+cell - *
+lines - *)
+except - *
+T - *
+lymphoid - *
+cell - *
+lines - *
+. - *
+
+One - * *
+of - * *
+them - * *
+, - * *
+hT86 - (A1*) (A1*)
+, - * *
+encoding encode (V*) *
+a - (A0* *
+putative - * *
+zinc - * *
+finger - * *
+protein - *) *
+was - * *
+found - * *
+to - * *
+derepress derepress * (V*)
+beta-galactosidase - * (A0*
+activity - * *)
+in - * (A2*
+the - * *
+Oct-2-harboring - * *
+tester - * *
+strain - * *)
+at - * *
+the - * *
+transcriptional - * *
+level - * *
+. - * *
+
+SMN - (A1*
+mutants - *)
+found - *
+in - (A2*
+SMA - *
+patients - *)
+cannot - *
+stimulate stimulate (V*)
+splicing - (A0*)
+. - *
+
+These - *
+are - *
+fumarate - (A1*
+reductase - *)
+( - *
+encoded encode (V*)
+by - *
+the - (A0*
+frdABCD - *
+operon - *)
+) - *
+, - *
+fumarase - *
+B - *
+, - *
+which - *
+generates - *
+fumarate - *
+from - *
+malate - *
+, - *
+and - *
+the - *
+DcuB - *
+permease - *
+for - *
+fumarate - *
+, - *
+malate - *
+, - *
+and - *
+aspartate - *
+. - *
+
+The - * * *
+LysR-type - * * *
+transcriptional - * * *
+regulator - * * *
+( - * * *
+LTTR - * * *
+) - * * *
+CysB - (A1*) (A1*) (A0*)
+is - * * *
+a - * * *
+transcription - * * *
+factor - * * *
+in - * * *
+Escherichia - * * *
+coli - * * *
+cells - * * *
+, - * * *
+where - * * *
+as - * * *
+a - * * *
+homotetramer - * * *
+it - * * *
+binds bind (V*) * *
+the - (A7* * *
+target - * * *
+promoter - * * *
+regions - *) * *
+and - * * *
+activates activate * (V*) *
+the - * (A0* *
+genes - * *) *
+involved - * * *
+in - * * *
+sulphur - * * *
+utilization - * * *
+and - * * *
+sulphonate-sulphur - * * *
+metabolism - * * *
+, - * * *
+while - * * *
+negatively - * * *
+autoregulating - * * *
+its - * * *
+own - * * *
+transcription transcription * * (V*)
+. - * * *
+
+ptsG - (A0*
+P2 - *)
+transcription transcription (V*)
+was - *
+inhibited - *
+by - *
+Fis - *
+and - *
+Mlc - *
+. - *
+
+Transcriptional - (A1*)
+regulation - *
+in - *
+response - *
+to - *
+oxygen - *
+and - *
+nitrate - *
+of - *
+the - *
+operons - *
+encoding encode (V*)
+the - (A0*
+[ - *
+NiFe - *
+] - *
+hydrogenases - *
+1 - *
+and - *
+2 - *)
+of - *
+Escherichia - *
+coli - *
+. - *
+
+Deletion - *
+mutants - *
+of - *
+the - (A1*
+gene - *)
+that - *
+lack lack (V*)
+the - (A0*
+best - *
+conserved - *
+region - *
+in - *
+the - *
+activating - *
+domain - *)
+are - *
+poorly - *
+active - *
+. - *
+
+Constitutive - (A5*)
+expression express (V*)
+of - *
+the - (A0*
+CsgD - *
+protein - *)
+results - *
+in - *
+altered - *
+transcription - *
+patterns - *
+for - *
+at - *
+least - *
+24 - *
+novel - *
+genes - *
+, - *
+in - *
+addition - *
+to - *
+the - *
+previously - *
+identified - *
+CsgD-dependent - *
+genes - *
+. - *
+
+In - *
+this - *
+study - *
+, - *
+we - *
+found - *
+that - *
+transcription - *
+from - *
+the - *
+prpBCDE - *
+and - *
+prpR - *
+promoters - *
+was - *
+down-regulated - *
+by - *
+the - *
+addition - *
+of - *
+glucose - *
+or - *
+glycerol - *
+, - *
+indicating - *
+that - *
+these - (A0*
+genes - *)
+may - *
+be - *
+regulated regulate (V*)
+by - *
+the - (A1*
+cyclic - *
+AMP - *
+( - *
+cAMP - *
+) - *
+-cAMP - *
+receptor - *
+protein - *
+( - *
+CRP - *
+) - *
+complex - *)
+. - *
