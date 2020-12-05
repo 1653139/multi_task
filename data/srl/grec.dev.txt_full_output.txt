@@ -33,7 +33,7 @@ factor		-		*
 IHF		-		*
 )		-		*
 are		-		*
-involved		involve		(V*)
+involved		involve		*
 in		-		*
 the		-		*
 control		-		*
@@ -47,9 +47,9 @@ gene		-		*
 fusions		-		*
 to		-		*
 study		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
-cysB		-		(A0*)
+cysB		-		*
 ,		-		*
 the		-		*
 regulatory		-		*
@@ -60,13 +60,13 @@ cysteine		-		*
 regulon		-		*
 .		-		*
 
-The		-		(A5*)
-regulation		regulation		(V*)
+The		-		*
+regulation		regulation		*
 of		-		*
-the		-		(A0*
+the		-		*
 two		-		*
 divergent		-		*
-promoters		-		*)
+promoters		-		*
 is		-		*
 thus		-		*
 simultaneously		-		*
@@ -111,12 +111,12 @@ gene		-		*
 of		-		*
 Escherichia		-		*
 coli		-		*
-codes		code		(V*)
+codes		code		*
 for		-		*
-an		-		(A0*
+an		-		*
 outer		-		*
 membrane		-		*
-protein		-		*)
+protein		-		*
 that		-		*
 is		-		*
 involved		-		*
@@ -136,7 +136,7 @@ the		-		*		*		*
 CytR		-		*		*		*
 repressor		-		*		*		*
 ,		-		*		*		*
-cytidine		-		*		(A1*)		*
+cytidine		-		*		*		*
 ,		-		*		*		*
 does		-		*		*		*
 not		-		*		*		*
@@ -144,14 +144,14 @@ prevent		-		*		*		*
 in		-		*		*		*
 vitro		-		*		*		*
 DNA		-		*		*		*
-binding		bind		(V*)		*		*
+binding		bind		*		*		*
 of		-		*		*		*
-CytR		-		(A0*)		(A1*)		*
+CytR		-		*		*		*
 ,		-		*		*		*
 but		-		*		*		*
-releases		release		*		(V*)		*
-the		-		*		(A0*		*
-repressor		-		*		*)		*
+releases		release		*		*		*
+the		-		*		*		*
+repressor		-		*		*		*
 from		-		*		*		*
 the		-		*		*		*
 nucleoprotein		-		*		*		*
@@ -161,18 +161,18 @@ leaves		-		*		*		*
 the		-		*		*		*
 cAMP-CRP		-		*		*		*
 activator		-		*		*		*
-bound		bound		*		*		(V*)
+bound		bound		*		*		*
 to		-		*		*		*
-its		-		*		*		(A0*
+its		-		*		*		*
 two		-		*		*		*
 DNA		-		*		*		*
-targets		-		*		*		*)
+targets		-		*		*		*
 .		-		*		*		*
 
-The		-		(A5*)
-regulation		regulation		(V*)
+The		-		*
+regulation		regulation		*
 of		-		*
-gcvA		-		(A0*)
+gcvA		-		*
 was		-		*
 examined		-		*
 by		-		*
@@ -196,13 +196,13 @@ regulatory		-		*
 region		-		*
 .		-		*
 
-The		-		(A1*
+The		-		*
 cpxA101		-		*
-mutation		-		*)
-abolishes		abolish		(V*)
-cpxA		-		(A0*
+mutation		-		*
+abolishes		abolish		*
+cpxA		-		*
 phosphatase		-		*
-activity		-		*)
+activity		-		*
 and		-		*
 results		-		*
 in		-		*
@@ -224,16 +224,16 @@ isorepressor		-		*
 ,		-		*
 control		-		*
 the		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
-the		-		(A0*
+the		-		*
 gal		-		*
 and		-		*
 mgl		-		*
-operons		-		*)
-in		-		(A2*
+operons		-		*
+in		-		*
 Escherichia		-		*
-coli		-		*)
+coli		-		*
 .		-		*
 
 The		-		*
@@ -275,10 +275,10 @@ amino		-		*
 termini		-		*
 and		-		*
 their		-		*
-expression		express		(V*)
-in		-		(A2*
+expression		express		*
+in		-		*
 different		-		*
-tissues		-		*)
+tissues		-		*
 .		-		*
 
 Site-directed		-		*
@@ -301,14 +301,14 @@ in		-		*
 vivo		-		*
 regulation		-		*
 of		-		*
-ompB		-		(A0*)
-expression		express		(V*)
+ompB		-		*
+expression		express		*
 by		-		*
 cyclic		-		*
 AMP		-		*
 .		-		*
 
-Expression		express		(V*)
+Expression		express		*
 from		-		*
 the		-		*
 Escherichia		-		*
@@ -374,16 +374,16 @@ only		-		*
 phosphate		-		*
 depletion		-		*
 increased		-		*
-iciA		-		(A0*)
-expression		express		(V*)
+iciA		-		*
+expression		express		*
 .		-		*
 
-It		-		(A5*)
-involves		involve		(V*)
-two		-		(A0*
+It		-		*
+involves		involve		*
+two		-		*
 upstream		-		*
 regulatory		-		*
-sequences		-		*)
+sequences		-		*
 ,		-		*
 one		-		*
 between		-		*
@@ -415,21 +415,21 @@ that		-		*		*
 NarL		-		*		*
 interferes		-		*		*
 with		-		*		*
-IHF		-		(A1*)		*
-binding		bind		(V*)		*
+IHF		-		*		*
+binding		bind		*		*
 at		-		*		*
 the		-		*		*
 nir		-		*		*
 promoter		-		*		*
 by		-		*		*
-distorting		-		(A1*		*
+distorting		-		*		*
 the		-		*		*
 minor		-		*		*
 groove		-		*		*
 at		-		*		*
 its		-		*		*
 target		-		*		*
-site		-		*)		*
+site		-		*		*
 ,		-		*		*
 and		-		*		*
 we		-		*		*
@@ -450,22 +450,22 @@ nucleoprotein		-		*		*
 structure		-		*		*
 to		-		*		*
 facilitate		-		*		*
-FNR-dependent		-		*		(A5*)
-transcription		transcription		*		(V*)
+FNR-dependent		-		*		*
+transcription		transcription		*		*
 .		-		*		*
 
 In		-		*		*
 addition		-		*		*
 ,		-		*		*
-the		-		(A1*		(A0*
-cluster		-		*)		*)
-contains		contain		(V*)		*
-other		-		(A4*		*
-promoters		-		*)		*
+the		-		*		*
+cluster		-		*		*
+contains		contain		*		*
+other		-		*		*
+promoters		-		*		*
 individually		-		*		*
-regulated		regulate		*		(V*)
+regulated		regulate		*		*
 by		-		*		*
-cis-		-		*		(A1*)
+cis-		-		*		*
 and		-		*		*
 trans-acting		-		*		*
 signals		-		*		*
@@ -481,7 +481,7 @@ is		-		*
 necessary		-		*
 for		-		*
 stage-specific		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
 the		-		*
 human		-		*
@@ -493,7 +493,7 @@ These		-		*		*
 findings		-		*		*
 suggest		-		*		*
 that		-		*		*
-the		-		(A1*		*
+the		-		*		*
 role		-		*		*
 of		-		*		*
 the		-		*		*
@@ -501,18 +501,18 @@ rearrangements		-		*		*
 fusing		-		*		*
 RLF		-		*		*
 and		-		*		*
-L-myc		-		*)		*
+L-myc		-		*		*
 is		-		*		*
 to		-		*		*
-deregulate		deregulate		(V*)		*
-the		-		(A0*		*
-tightly		-		*)		*
+deregulate		deregulate		*		*
+the		-		*		*
+tightly		-		*		*
 controlled		-		*		*
-expression		express		*		(V*)
+expression		express		*		*
 of		-		*		*
-the		-		*		(A0*
+the		-		*		*
 L-myc		-		*		*
-gene		-		*		*)
+gene		-		*		*
 .		-		*		*
 
 In		-		*		*		*		*
@@ -530,8 +530,8 @@ the		-		*		*		*		*
 gal		-		*		*		*		*
 regulon		-		*		*		*		*
 ,		-		*		*		*		*
-GalS		-		(A1*)		*		*		*
-binds		bind		(V*)		*		*		*
+GalS		-		*		*		*		*
+binds		bind		*		*		*		*
 most		-		*		*		*		*
 strongly		-		*		*		*		*
 to		-		*		*		*		*
@@ -544,13 +544,13 @@ mgl		-		*		*		*		*
 operon		-		*		*		*		*
 ,		-		*		*		*		*
 which		-		*		*		*		*
-encodes		encode		*		(V*)		*		*
-the		-		*		(A0*		*		*
+encodes		encode		*		*		*		*
+the		-		*		*		*		*
 high-affinity		-		*		*		*		*
 beta-methylgalactoside		-		*		*		*		*
 galactose		-		*		*		*		*
 transport		-		*		*		*		*
-system		-		*		*)		*		*
+system		-		*		*		*		*
 ,		-		*		*		*		*
 and		-		*		*		*		*
 with		-		*		*		*		*
@@ -560,24 +560,24 @@ to		-		*		*		*		*
 the		-		*		*		*		*
 operators		-		*		*		*		*
 controlling		-		*		*		*		*
-expression		express		*		*		(V*)		*
+expression		express		*		*		*		*
 of		-		*		*		*		*
-the		-		*		*		(A0*		*
+the		-		*		*		*		*
 gal		-		*		*		*		*
-operon		-		*		*		*)		*
+operon		-		*		*		*		*
 ,		-		*		*		*		*
 which		-		*		*		*		*
-codes		code		*		*		*		(V*)
+codes		code		*		*		*		*
 for		-		*		*		*		*
-enzymes		-		*		*		*		(A0*)
+enzymes		-		*		*		*		*
 of		-		*		*		*		*
 galactose		-		*		*		*		*
 metabolism		-		*		*		*		*
 .		-		*		*		*		*
 
-The		-		(A5*)		*
-expression		express		(V*)		*
-levels		-		(A5*)		*
+The		-		*		*
+expression		express		*		*
+levels		-		*		*
 of		-		*		*
 the		-		*		*
 electron		-		*		*
@@ -607,7 +607,7 @@ proteins		-		*		*
 while		-		*		*
 a		-		*		*
 lower		-		*		*
-expression		express		*		(V*)
+expression		express		*		*
 of		-		*		*
 cydA		-		*		*
 (		-		*		*
@@ -646,11 +646,11 @@ wild		-		*		*
 type		-		*		*
 .		-		*		*
 
-Cotransfections		cotransfect		(V*)		*		*		*
+Cotransfections		cotransfect		*		*		*		*
 with		-		*		*		*		*
-plasmids		-		*		(A1*)		*		*
-expressing		express		*		(V*)		*		*
-WT-1		-		*		(A0*)		*		*
+plasmids		-		*		*		*		*
+expressing		express		*		*		*		*
+WT-1		-		*		*		*		*
 ,		-		*		*		*		*
 WTAR		-		*		*		*		*
 (		-		*		*		*		*
@@ -678,9 +678,9 @@ regulation		-		*		*		*		*
 with		-		*		*		*		*
 a		-		*		*		*		*
 3-fold		-		*		*		*		*
-induction		induce		*		*		(V*)		*
+induction		induce		*		*		*		*
 with		-		*		*		*		*
-WT-1		-		*		*		(A1*)		*
+WT-1		-		*		*		*		*
 ,		-		*		*		*		*
 a		-		*		*		*		*
 7-fold		-		*		*		*		*
@@ -690,25 +690,25 @@ mutated		-		*		*		*		*
 p53		-		*		*		*		*
 ,		-		*		*		*		*
 and		-		*		*		*		*
-a		-		*		*		*		(A5*
-4-fold		-		*		*		*		*)
-repression		repress		*		*		*		(V*)
+a		-		*		*		*		*
+4-fold		-		*		*		*		*
+repression		repress		*		*		*		*
 with		-		*		*		*		*
-wild-type		-		*		*		*		(A1*
-p53		-		*		*		*		*)
+wild-type		-		*		*		*		*
+p53		-		*		*		*		*
 .		-		*		*		*		*
 
-The		-		(A1*
+The		-		*
 coactivator		-		*
-activity		-		*)
-requires		require		(V*)
+activity		-		*
+requires		require		*
 an		-		*
 hTAF		-		*
 (		-		*
-II		-		(A0*
+II		-		*
 )		-		*
 **NUM**		-		*
-region		-		*)
+region		-		*
 that		-		*
 is		-		*
 located		-		*
@@ -735,15 +735,15 @@ II		-		*
 **NUM**		-		*
 .		-		*
 
-The		-		(A1*		*
+The		-		*		*
 cspA		-		*		*
 and		-		*		*
 fecR		-		*		*
-genes		-		*)		*
+genes		-		*		*
 ,		-		*		*
-encoding		encode		(V*)		*
-regulatory		-		(A0*		*
-proteins		-		*)		*
+encoding		encode		*		*
+regulatory		-		*		*
+proteins		-		*		*
 responding		-		*		*
 to		-		*		*
 cold		-		*		*
@@ -757,7 +757,7 @@ respectively		-		*		*
 and		-		*		*
 yoaD		-		*		*
 ,		-		*		*
-encoding		encode		*		(V*)
+encoding		encode		*		*
 a		-		*		*
 putative		-		*		*
 negative		-		*		*
@@ -778,10 +778,10 @@ CsgD-regulated		-		*		*
 genes		-		*		*
 .		-		*		*
 
-Two		-		(A0*
+Two		-		*
 acnA		-		*
-promoters		-		*)
-transcribing		transcribe		(V*)
+promoters		-		*
+transcribing		transcribe		*
 from		-		*
 start		-		*
 points		-		*
@@ -846,8 +846,8 @@ than		-		*
 **NUM**		-		*
 proteins		-		*
 and		-		*
-polypeptides		-		(A0*)
-derived		derive		(V*)
+polypeptides		-		*
+derived		derive		*
 from		-		*
 open		-		*
 reading		-		*
@@ -868,9 +868,9 @@ protein		-		*
 provided		-		*
 evidence		-		*
 that		-		*
-this		-		(A1*
-regulator		-		*)
-binds		bind		(V*)
+this		-		*
+regulator		-		*
+binds		bind		*
 to		-		*
 the		-		*
 promoter		-		*
@@ -881,7 +881,7 @@ target		-		*
 genes		-		*
 .		-		*
 
-Overexpression		overexpress		(V*)		*
+Overexpression		overexpress		*		*
 of		-		*		*
 marA		-		*		*
 alone		-		*		*
@@ -892,9 +892,9 @@ plasmid		-		*		*
 caused		-		*		*
 high		-		*		*
 constitutive		-		*		*
-expression		express		*		(V*)
+expression		express		*		*
 of		-		*		*
-inaA		-		*		(A0*)
+inaA		-		*		*
 in		-		*		*
 a		-		*		*
 strain		-		*		*
@@ -919,16 +919,16 @@ technique		-		*
 we		-		*
 showed		-		*
 that		-		*
-CRP		-		(A1*)
-binds		bind		(V*)
+CRP		-		*
+binds		bind		*
 with		-		*
-high		-		(A0*
+high		-		*
 affinity		-		*
 to		-		*
 the		-		*
 three		-		*
 malEp-proximal		-		*
-sites		-		*)
+sites		-		*
 and		-		*
 with		-		*
 a		-		*
@@ -940,14 +940,14 @@ fourth		-		*
 site		-		*
 .		-		*
 
-The		-		(A1*		(A1*		*
-DNA		-		*)		*)		*
-containing		contain		(V*)		*		*
-these		-		(A4*		*		*
+The		-		*		*		*
+DNA		-		*		*		*
+containing		contain		*		*		*
+these		-		*		*		*
 two		-		*		*		*
 operators		-		*		*		*
-synergistically		-		*)		*		*
-increased		increase		*		(V*)		*
+synergistically		-		*		*		*
+increased		increase		*		*		*
 the		-		*		*		*
 apparent		-		*		*		*
 affinity		-		*		*		*
@@ -955,9 +955,9 @@ of		-		*		*		*
 glp		-		*		*		*
 repressor		-		*		*		*
 for		-		*		*		*
-DNA		-		*		*		(A0*
-fragments		-		*		*		*)
-containing		contain		*		*		(V*)
+DNA		-		*		*		*
+fragments		-		*		*		*
+containing		contain		*		*		*
 the		-		*		*		*
 four		-		*		*		*
 operators		-		*		*		*
@@ -971,14 +971,14 @@ glpFK		-		*		*		*
 operon		-		*		*		*
 .		-		*		*		*
 
-Control		control		(V*)		*
+Control		control		*		*
 of		-		*		*
-the		-		(A0*		*
+the		-		*		*
 ompB		-		*		*
-operon		-		*)		*
+operon		-		*		*
 by		-		*		*
-cyclic		-		(A1*		*
-AMP-CRP		-		*)		*
+cyclic		-		*		*
+AMP-CRP		-		*		*
 may		-		*		*
 account		-		*		*
 for		-		*		*
@@ -987,11 +987,11 @@ observed		-		*		*
 regulation		-		*		*
 of		-		*		*
 the		-		*		*
-formation		form		*		(V*)
+formation		form		*		*
 of		-		*		*
-OmpF		-		*		(A0*
+OmpF		-		*		*
 and		-		*		*
-OmpC		-		*		*)
+OmpC		-		*		*
 by		-		*		*
 this		-		*		*
 complex		-		*		*
@@ -1021,26 +1021,26 @@ Lett		-		*		*
 )		-		*		*
 .		-		*		*
 
-The		-		(A1*		*		*		*		*
+The		-		*		*		*		*		*
 control		-		*		*		*		*		*
-loop		-		*)		*		*		*		*
-involves		involve		(V*)		*		*		*		*
-the		-		(A0*		*		*		*		*
+loop		-		*		*		*		*		*
+involves		involve		*		*		*		*		*
+the		-		*		*		*		*		*
 GadX		-		*		*		*		*		*
-protein		-		*)		*		*		*		*
+protein		-		*		*		*		*		*
 repressing		-		*		*		*		*		*
 the		-		*		*		*		*		*
-expression		express		*		(V*)		*		*		*
+expression		express		*		*		*		*		*
 of		-		*		*		*		*		*
-gadW		-		*		(A0*)		*		*		*
+gadW		-		*		*		*		*		*
 and		-		*		*		*		*		*
 the		-		*		*		*		*		*
-GadW		-		*		*		(A0*		*		*
-protein		-		*		*		*)		*		*
-repressing		repress		*		*		(V*)		*		*
+GadW		-		*		*		*		*		*
+protein		-		*		*		*		*		*
+repressing		repress		*		*		*		*		*
 or		-		*		*		*		*		*
-inhibiting		inhibit		*		*		(A4*		(V*)		*
-RpoS		-		*		*		*)		(A0*)		*
+inhibiting		inhibit		*		*		*		*		*
+RpoS		-		*		*		*		*		*
 ,		-		*		*		*		*		*
 which		-		*		*		*		*		*
 is		-		*		*		*		*		*
@@ -1050,9 +1050,9 @@ sigma		-		*		*		*		*		*
 factor		-		*		*		*		*		*
 that		-		*		*		*		*		*
 drives		-		*		*		*		*		*
-transcription		transcription		*		*		*		*		(V*)
+transcription		transcription		*		*		*		*		*
 of		-		*		*		*		*		*
-gadX		-		*		*		*		*		(A0*)
+gadX		-		*		*		*		*		*
 .		-		*		*		*		*		*
 
 We		-		*
@@ -1067,7 +1067,7 @@ MlrA		-		*
 ,		-		*
 that		-		*
 is		-		*
-required		require		(V*)
+required		require		*
 for		-		*
 curli		-		*
 production		-		*
@@ -1080,17 +1080,17 @@ formation		-		*
 Superimposed		-		*		*
 in		-		*		*
 the		-		*		*
-specific		-		(A5*		*
-PaaX-mediated		-		*)		*
-regulation		regulation		(V*)		*
+specific		-		*		*
+PaaX-mediated		-		*		*
+regulation		regulation		*		*
 is		-		*		*
-transcriptional		-		*		(A5*)
-activation		activate		*		(V*)
+transcriptional		-		*		*
+activation		activate		*		*
 by		-		*		*
-the		-		*		(A1*
+the		-		*		*
 cAMP		-		*		*
 receptor		-		*		*
-protein		-		*		*)
+protein		-		*		*
 and		-		*		*
 the		-		*		*
 integration		-		*		*
@@ -1104,13 +1104,13 @@ Therefore		-		*		*
 it		-		*		*
 seems		-		*		*
 that		-		*		*
-different		-		(A1*		*
-mechanisms		-		*)		*
-involving		involve		(V*)		*
+different		-		*		*
+mechanisms		-		*		*
+involving		involve		*		*
 RpoS		-		*		*
 and		-		*		*
-ppGpp		-		*		(A1*)
-regulate		regulate		*		(V*)
+ppGpp		-		*		*
+regulate		regulate		*		*
 the		-		*		*
 growth-phase		-		*		*
 response		-		*		*
@@ -1129,18 +1129,18 @@ MetR		-		*
 ,		-		*
 increased		-		*
 MetR		-		*
-binding		bind		(V*)
+binding		bind		*
 to		-		*
-the		-		(A0*
+the		-		*
 glyA		-		*
 control		-		*
-region		-		*)
+region		-		*
 .		-		*
 
-Normal		-		(A5*)
-expression		express		(V*)
+Normal		-		*
+expression		express		*
 of		-		*
-fimA		-		(A0*)
+fimA		-		*
 was		-		*
 shown		-		*
 to		-		*
@@ -1185,23 +1185,23 @@ three		-		*
 exhibited		-		*
 essentially		-		*
 normal		-		*
-nitrate		-		(A0*)
-regulation		regulation		(V*)
+nitrate		-		*
+regulation		regulation		*
 .		-		*
 
 HOX4C		-		*		*
 and		-		*		*
 HOX4D		-		*		*
-proteins		-		(A0*)		*
-synthesized		synthesize		(V*)		*
+proteins		-		*		*
+synthesized		synthesize		*		*
 in		-		*		*
 bacteria		-		*		*
-bind		bind		*		(V*)
+bind		bind		*		*
 to		-		*		*
-the		-		*		(A0*
+the		-		*		*
 same		-		*		*
 conserved		-		*		*
-sequence		-		*		*)
+sequence		-		*		*
 located		-		*		*
 around		-		*		*
 position		-		*		*
@@ -1225,17 +1225,17 @@ nucleotides		-		*		*
 Analyses		-		*		*		*
 to		-		*		*		*
 quantitate		-		*		*		*
-the		-		(A5*)		*		*
-induction		induce		(V*)		*		*
+the		-		*		*		*
+induction		induce		*		*		*
 of		-		*		*		*
-this		-		(A0*		*		*
-system		-		*)		*		*
+this		-		*		*		*
+system		-		*		*		*
 show		-		*		*		*
 that		-		*		*		*
-derepression		derepress		*		(V*)		*
+derepression		derepress		*		*		*
 of		-		*		*		*
-the		-		*		(A0*		*
-operon		-		*		*)		*
+the		-		*		*		*
+operon		-		*		*		*
 is		-		*		*		*
 first		-		*		*		*
 detectable		-		*		*		*
@@ -1250,7 +1250,7 @@ the		-		*		*		*
 rate		-		*		*		*
 of		-		*		*		*
 synthesis		-		*		*		*
-increasing		increase		*		*		(V*)
+increasing		increase		*		*		*
 to		-		*		*		*
 four		-		*		*		*
 to		-		*		*		*
@@ -1267,10 +1267,10 @@ min		-		*		*		*
 .		-		*		*		*
 
 When		-		*		*		*
-expressed		express		(V*)		*		*
-in		-		(A2*		*		*
+expressed		express		*		*		*
+in		-		*		*		*
 COS		-		*		*		*
-cells		-		*)		*		*
+cells		-		*		*		*
 ,		-		*		*		*
 however		-		*		*		*
 ,		-		*		*		*
@@ -1284,7 +1284,7 @@ but		-		*		*		*
 it		-		*		*		*
 is		-		*		*		*
 not		-		*		*		*
-regulated		regulate		*		(V*)		*
+regulated		regulate		*		*		*
 correctly		-		*		*		*
 :		-		*		*		*
 its		-		*		*		*
@@ -1297,7 +1297,7 @@ are		-		*		*		*
 not		-		*		*		*
 affected		-		*		*		*
 by		-		*		*		*
-stimulation		stimulate		*		*		(V*)
+stimulation		stimulate		*		*		*
 of		-		*		*		*
 the		-		*		*		*
 COS		-		*		*		*
@@ -1310,15 +1310,15 @@ phorbol		-		*		*		*
 13-acetate		-		*		*		*
 .		-		*		*		*
 
-The		-		(A5*)		*		*
-response		respond		(V*)		*		*
+The		-		*		*		*
+response		respond		*		*		*
 of		-		*		*		*
-this		-		(A0*		*		*
+this		-		*		*		*
 fusion		-		*		*		*
 to		-		*		*		*
 the		-		*		*		*
 glp		-		*		*		*
-repressor		-		*)		*		*
+repressor		-		*		*		*
 was		-		*		*		*
 compared		-		*		*		*
 with		-		*		*		*
@@ -1334,19 +1334,19 @@ D		-		*		*		*
 )		-		*		*		*
 **NUM**		-		*		*		*
 and		-		*		*		*
-O		-		*		(A0*		*
+O		-		*		*		*
 (		-		*		*		*
 D		-		*		*		*
 )		-		*		*		*
-**NUM**		-		*		*)		*
+**NUM**		-		*		*		*
 were		-		*		*		*
-inactivated		inactivate		*		(V*)		*
+inactivated		inactivate		*		*		*
 by		-		*		*		*
-either		-		*		(A1*		*
-deletion		-		*		*)		*
+either		-		*		*		*
+deletion		-		*		*		*
 or		-		*		*		*
-site-directed		-		*		*		(A5*)
-mutagenesis		mutate		*		*		(V*)
+site-directed		-		*		*		*
+mutagenesis		mutate		*		*		*
 .		-		*		*		*
 
 Despite		-		*
@@ -1356,11 +1356,11 @@ of		-		*
 regulatory		-		*
 elements		-		*
 ,		-		*
-pnrfA		-		(A0*
+pnrfA		-		*
 and		-		*
-pacsP1		-		*)
+pacsP1		-		*
 are		-		*
-regulated		regulate		(V*)
+regulated		regulate		*
 independently		-		*
 .		-		*
 
@@ -1370,18 +1370,18 @@ regions		-		*
 are		-		*
 protected		-		*
 by		-		*
-TorR		-		(A0*)
-binding		bind		(V*)
+TorR		-		*
+binding		bind		*
 .		-		*
 
-Regulation		regulate		(V*)
+Regulation		regulate		*
 of		-		*
-the		-		(A0*
+the		-		*
 Escherichia		-		*
 coli		-		*
 K-12		-		*
 uvrB		-		*
-operon		-		*)
+operon		-		*
 .		-		*
 
 Increasing		-		*		*
@@ -1394,12 +1394,12 @@ more		-		*		*
 basepairs		-		*		*
 abolished		-		*		*
 NarP		-		*		*
-binding		bind		(V*)		*
+binding		bind		*		*
 and		-		*		*
 significantly		-		*		*
 reduced		-		*		*
 NarL		-		*		*
-binding		bind		*		(V*)
+binding		bind		*		*
 .		-		*		*
 
 The		-		*		*
@@ -1414,11 +1414,11 @@ in		-		*		*
 principle		-		*		*
 ,		-		*		*
 allow		-		*		*
-extension		extend		(V*)		*
+extension		extend		*		*
 of		-		*		*
-the		-		(A0*		(A0*
-transcripts		-		*)		*)
-initiated		initiate		*		(V*)
+the		-		*		*
+transcripts		-		*		*
+initiated		initiate		*		*
 at		-		*		*
 the		-		*		*
 up-stream		-		*		*
@@ -1446,9 +1446,9 @@ identified		-		*		*
 operons		-		*		*
 that		-		*		*
 were		-		*		*
-activated		activate		(V*)		*
+activated		activate		*		*
 by		-		*		*
-CRP		-		(A1*)		*
+CRP		-		*		*
 in		-		*		*
 vitro		-		*		*
 and		-		*		*
@@ -1456,15 +1456,15 @@ and		-		*		*
 operons		-		*		*
 that		-		*		*
 were		-		*		*
-repressed		repress		*		(V*)
+repressed		repress		*		*
 .		-		*		*
 
 When		-		*
-glnAp2		-		(A0*)
+glnAp2		-		*
 is		-		*
-activated		activate		(V*)
+activated		activate		*
 by		-		*
-NifA		-		(A1*)
+NifA		-		*
 ,		-		*
 a		-		*
 similar		-		*
@@ -1478,24 +1478,24 @@ observed		-		*
 
 Studies		-		*		*
 with		-		*		*
-strains		-		(A0*)		*
-deleted		delete		(V*)		*
-for		-		(A2*		*
+strains		-		*		*
+deleted		delete		*		*
+for		-		*		*
 the		-		*		*
 micF		-		*		*
-locus		-		*)		*
+locus		-		*		*
 showed		-		*		*
 that		-		*		*
 the		-		*		*
-marA-dependent		-		*		(A5*)
-reduction		reduce		*		(V*)
+marA-dependent		-		*		*
+reduction		reduce		*		*
 of		-		*		*
-OmpF		-		*		(A0*
+OmpF		-		*		*
 required		-		*		*
 an		-		*		*
 intact		-		*		*
 micF		-		*		*
-locus		-		*		*)
+locus		-		*		*
 .		-		*		*
 
 These		-		*		*		*
@@ -1508,13 +1508,13 @@ the		-		*		*		*
 NFKB2		-		*		*		*
 subunit		-		*		*		*
 to		-		*		*		*
-the		-		(A0*		*		*
+the		-		*		*		*
 HIV		-		*		*		*
-enhancer		-		*)		*		*
+enhancer		-		*		*		*
 is		-		*		*		*
-facilitated		facilitate		(V*)		*		*
+facilitated		facilitate		*		*		*
 by		-		*		*		*
-RelA		-		(A1*)		*		*
+RelA		-		*		*		*
 (		-		*		*		*
 p65		-		*		*		*
 )		-		*		*		*
@@ -1530,17 +1530,17 @@ heterodimeric		-		*		*		*
 complex		-		*		*		*
 mediates		-		*		*		*
 transcriptional		-		*		*		*
-activation		activate		*		(V*)		*
+activation		activate		*		*		*
 which		-		*		*		*
 is		-		*		*		*
 subject		-		*		*		*
 to		-		*		*		*
-regulation		regulation		*		*		(V*)
+regulation		regulation		*		*		*
 by		-		*		*		*
-MAD-3		-		*		*		(A1*)
+MAD-3		-		*		*		*
 .		-		*		*		*
 
-Expression		express		(V*)
+Expression		express		*
 of		-		*
 the		-		*
 human		-		*
@@ -1562,11 +1562,11 @@ Trm4p		-		*
 enzyme		-		*
 .		-		*
 
-Regulation		regulate		(V*)
-in		-		(A2*
+Regulation		regulate		*
+in		-		*
 the		-		*
 rpoS		-		*
-regulon		-		*)
+regulon		-		*
 of		-		*
 Escherichia		-		*
 coli		-		*
@@ -1586,8 +1586,8 @@ exhibited		-		*
 interesting		-		*
 patterns		-		*
 of		-		*
-porin		-		(A0*)
-expression		express		(V*)
+porin		-		*
+expression		express		*
 .		-		*
 
 A		-		*
@@ -1606,15 +1606,15 @@ experiments		-		*
 ,		-		*
 indicated		-		*
 that		-		*
-Lrp		-		(A0*
-sites		-		*)
+Lrp		-		*
+sites		-		*
 that		-		*
 overlap		-		*
 the		-		*
 dad		-		*
 promoters		-		*
 were		-		*
-involved		involve		(V*)
+involved		involve		*
 in		-		*
 repression		-		*
 .		-		*
@@ -1644,11 +1644,11 @@ ArcA-P		-		*		*
 is		-		*		*
 expected		-		*		*
 to		-		*		*
-act		act		(V*)		*
+act		act		*		*
 as		-		*		*
-a		-		(A4*		*
+a		-		*		*
 transcriptional		-		*		*
-repressor		-		*)		*
+repressor		-		*		*
 (		-		*		*
 e		-		*		*
 .		-		*		*
@@ -1669,36 +1669,36 @@ to		-		*		*
 be		-		*		*
 mediated		-		*		*
 by		-		*		*
-sequestration		sequestrate		*		(V*)
+sequestration		sequestrate		*		*
 of		-		*		*
-cis-controlling		-		*		(A0*
+cis-controlling		-		*		*
 transcriptional		-		*		*
 regulatory		-		*		*
-elements		-		*		*)
+elements		-		*		*
 .		-		*		*
 
 However		-		*		*		*		*
 ,		-		*		*		*		*
-overexpression		overexpression		(V*)		*		*		*
+overexpression		overexpression		*		*		*		*
 of		-		*		*		*		*
 gcvR		-		*		*		*		*
 re-established		-		*		*		*		*
 purine-mediated		-		*		*		*		*
-repression		repress		*		(V*)		*		*
+repression		repress		*		*		*		*
 of		-		*		*		*		*
-the		-		*		(A0*		*		*
+the		-		*		*		*		*
 gcvT		-		*		*		*		*
 :		-		*		*		*		*
 :		-		*		*		*		*
 lacZ		-		*		*		*		*
-fusion		-		*		*)		*		*
+fusion		-		*		*		*		*
 ,		-		*		*		*		*
 supporting		-		*		*		*		*
 the		-		*		*		*		*
 model		-		*		*		*		*
 for		-		*		*		*		*
-gcv		-		*		*		(A5*)		*
-regulation		regulation		*		*		(V*)		*
+gcv		-		*		*		*		*
+regulation		regulation		*		*		*		*
 that		-		*		*		*		*
 suggests		-		*		*		*		*
 the		-		*		*		*		*
@@ -1716,7 +1716,7 @@ appropriate		-		*		*		*		*
 regulation		-		*		*		*		*
 of		-		*		*		*		*
 gcv		-		*		*		*		*
-expression		express		*		*		*		(V*)
+expression		express		*		*		*		*
 in		-		*		*		*		*
 response		-		*		*		*		*
 to		-		*		*		*		*
@@ -1741,14 +1741,14 @@ promoter		-		*
 provides		-		*
 for		-		*
 efficient		-		*
-activation		activate		(V*)
+activation		activate		*
 of		-		*
-the		-		(A0*
-promoter		-		*)
+the		-		*
+promoter		-		*
 when		-		*
-the		-		(A6*
+the		-		*
 activator		-		*
-concentration		-		*)
+concentration		-		*
 is		-		*
 low		-		*
 ,		-		*
@@ -1770,9 +1770,9 @@ high		-		*
 
 However		-		*
 ,		-		*
-inactivation		inactivate		(V*)
+inactivation		inactivate		*
 of		-		*
-mlrA		-		(A0*)
+mlrA		-		*
 did		-		*
 not		-		*
 affect		-		*
@@ -1802,19 +1802,19 @@ region		-		*
 
 Thus		-		*		*
 ,		-		*		*
-MelR		-		(A1*		(A1*
+MelR		-		*		*
 and		-		*		*
-CRP		-		*)		*
-activate		activate		(V*)		*
-transcription		-		(A0*)		*)
+CRP		-		*		*
+activate		activate		*		*
+transcription		-		*		*
 by		-		*		*
-a		-		(A1*		*
+a		-		*		*
 novel		-		*		*
-mechanism		-		*)		*
+mechanism		-		*		*
 in		-		*		*
 which		-		*		*
 they		-		*		*
-bind		bind		*		(V*)
+bind		bind		*		*
 co-operatively		-		*		*
 to		-		*		*
 adjacent		-		*		*
@@ -1826,9 +1826,9 @@ bacterial		-		*		*
 enhanceosome		-		*		*
 .		-		*		*
 
-Gene		-		(A1*)
-expression		express		(V*)
-regulation		-		(A5*)
+Gene		-		*
+expression		express		*
+regulation		-		*
 by		-		*
 the		-		*
 Curli		-		*
@@ -1850,11 +1850,11 @@ microbial		-		*
 adhesion		-		*
 .		-		*
 
-Deletion		delete		(V*)		*		*
+Deletion		delete		*		*		*
 of		-		*		*		*
-the		-		(A0*		*		*
+the		-		*		*		*
 arcA		-		*		*		*
-gene		-		*)		*		*
+gene		-		*		*		*
 caused		-		*		*		*
 about		-		*		*		*
 a		-		*		*		*
@@ -1862,11 +1862,11 @@ a		-		*		*		*
 increase		-		*		*		*
 in		-		*		*		*
 the		-		*		*		*
-ptsG		-		*		(A0*)		*
-expression		express		*		(V*)		*
+ptsG		-		*		*		*
+expression		express		*		*		*
 ,		-		*		*		*
 and		-		*		*		*
-overexpression		overexpression		*		*		(V*)
+overexpression		overexpression		*		*		*
 of		-		*		*		*
 ArcA		-		*		*		*
 significantly		-		*		*		*
@@ -1875,11 +1875,11 @@ glucose		-		*		*		*
 consumption		-		*		*		*
 .		-		*		*		*
 
-The		-		(A1*		*		*
+The		-		*		*		*
 ompB		-		*		*		*
-operon		-		*)		*		*
-encodes		encode		(V*)		*		*
-OmpR		-		(A0*)		*		*
+operon		-		*		*		*
+encodes		encode		*		*		*
+OmpR		-		*		*		*
 and		-		*		*		*
 EnvZ		-		*		*		*
 ,		-		*		*		*
@@ -1890,18 +1890,18 @@ are		-		*		*		*
 necessary		-		*		*		*
 for		-		*		*		*
 the		-		*		*		*
-expression		express		*		(V*)		*
+expression		express		*		*		*
 and		-		*		*		*
-osmoregulation		osmoregulate		*		*		(V*)
+osmoregulation		osmoregulate		*		*		*
 of		-		*		*		*
-the		-		*		*		(A0*
+the		-		*		*		*
 OmpF		-		*		*		*
 and		-		*		*		*
 OmpC		-		*		*		*
-porins		-		*		*		*)
-in		-		*		*		(A2*
+porins		-		*		*		*
+in		-		*		*		*
 Escherichia		-		*		*		*
-coli		-		*		*		*)
+coli		-		*		*		*
 .		-		*		*		*
 
 Oxidative		-		*
@@ -1927,8 +1927,8 @@ in		-		*
 the		-		*
 mechanism		-		*
 of		-		*
-VEGF		-		(A0*)
-expression		express		(V*)
+VEGF		-		*
+expression		express		*
 in		-		*
 these		-		*
 diseases		-		*
@@ -1940,16 +1940,16 @@ two		-		*		*
 new		-		*		*
 targets		-		*		*
 of		-		*		*
-this		-		(A1*		*
+this		-		*		*
 complex		-		*		*
 :		-		*		*
-argG		-		*)		*
+argG		-		*		*
 ,		-		*		*
 which		-		*		*
-encodes		encode		(V*)		*
-the		-		(A0*		*
+encodes		encode		*		*
+the		-		*		*
 arginosuccinate		-		*		*
-synthase		-		*)		*
+synthase		-		*		*
 involved		-		*		*
 in		-		*		*
 the		-		*		*
@@ -1961,7 +1961,7 @@ and		-		*		*
 metY		-		*		*
 ,		-		*		*
 which		-		*		*
-encodes		encode		*		(V*)
+encodes		encode		*		*
 one		-		*		*
 of		-		*		*
 the		-		*		*
@@ -1973,7 +1973,7 @@ initiators		-		*		*
 tRNAf2Met		-		*		*
 .		-		*		*
 
-Binding		bind		(V*)		*
+Binding		bind		*		*
 of		-		*		*
 the		-		*		*
 TorR		-		*		*
@@ -1984,35 +1984,35 @@ direct		-		*		*
 repeats		-		*		*
 activates		-		*		*
 tor		-		*		*
-operon		-		*		(A0*)
-expression		express		*		(V*)
+operon		-		*		*
+expression		express		*		*
 .		-		*		*
 
 In		-		*		*
 this		-		*		*
 study		-		*		*
 ,		-		*		*
-uvrA		-		(A0*		(A0*
+uvrA		-		*		*
 gene		-		*		*
-expression		-		*)		*)
+expression		-		*		*
 was		-		*		*
-repressed		repress		(V*)		*
+repressed		repress		*		*
 when		-		*		*
 ArcA		-		*		*
 was		-		*		*
-induced		induce		*		(V*)
-in		-		*		(A2*
+induced		induce		*		*
+in		-		*		*
 E		-		*		*
 .		-		*		*
-coli		-		*		*)
+coli		-		*		*
 .		-		*		*
 
-The		-		(A1*		*
+The		-		*		*
 rpoS		-		*		*
-gene		-		*)		*
+gene		-		*		*
 ,		-		*		*
-encoding		encode		(V*)		*
-a		-		(A5*)		*
+encoding		encode		*		*
+a		-		*		*
 known		-		*		*
 positive		-		*		*
 regulator		-		*		*
@@ -2046,9 +2046,9 @@ cosmids		-		*		*
 ,		-		*		*
 respectively		-		*		*
 ,		-		*		*
-conferred		confer		*		(V*)
-curli		-		*		(A0*
-production		-		*		*)
+conferred		confer		*		*
+curli		-		*		*
+production		-		*		*
 and		-		*		*
 HA		-		*		*
 to		-		*		*
@@ -2060,9 +2060,9 @@ HB101		-		*		*
 
 Thus		-		*		*
 ,		-		*		*
-FNR		-		(A0*)		*
+FNR		-		*		*
 can		-		*		*
-respond		respond		(V*)		*
+respond		respond		*		*
 to		-		*		*
 not		-		*		*
 only		-		*		*
@@ -2079,9 +2079,9 @@ with		-		*		*
 major		-		*		*
 implications		-		*		*
 for		-		*		*
-global		-		*		(A0*
-gene		-		*		*)
-regulation		regulation		*		(V*)
+global		-		*		*
+gene		-		*		*
+regulation		regulation		*		*
 in		-		*		*
 bacteria		-		*		*
 .		-		*		*
@@ -2090,7 +2090,7 @@ Recombinant		-		*
 NFAT1		-		*
 can		-		*
 mediate		-		*
-transcription		transcription		(V*)
+transcription		transcription		*
 of		-		*
 the		-		*
 interleukin-2		-		*
@@ -2128,13 +2128,13 @@ immune		-		*
 response		-		*
 .		-		*
 
-Overexpression		overexpress		(V*)		*
+Overexpression		overexpress		*		*
 of		-		*		*
-SNURF		-		(A0*)		*
-in		-		(A2*		*
+SNURF		-		*		*
+in		-		*		*
 cultured		-		*		*
 mammalian		-		*		*
-cells		-		*)		*
+cells		-		*		*
 enhanced		-		*		*
 not		-		*		*
 only		-		*		*
@@ -2148,8 +2148,8 @@ receptor-dependent		-		*		*
 transactivation		-		*		*
 but		-		*		*
 also		-		*		*
-basal		-		*		(A0*)
-transcription		transcription		*		(V*)
+basal		-		*		*
+transcription		transcription		*		*
 from		-		*		*
 steroid-regulated		-		*		*
 promoters		-		*		*
@@ -2166,46 +2166,46 @@ for		-		*
 active		-		*
 genes		-		*
 :		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
-the		-		(A0*
+the		-		*
 Escherichia		-		*
 coli		-		*
 lac		-		*
-operon		-		*)
-in		-		(A2*
+operon		-		*
+in		-		*
 mammalian		-		*
-cells		-		*)
+cells		-		*
 .		-		*
 
 We		-		*
 characterized		-		*
-the		-		(A1*
+the		-		*
 gntT		-		*
-gene		-		*)
-encoding		encode		(V*)
-a		-		(A0*
+gene		-		*
+encoding		encode		*
+a		-		*
 high-affinity		-		*
 gluconate		-		*
-permease		-		*)
+permease		-		*
 of		-		*
 Escherichia		-		*
 coli		-		*
 K-12		-		*
 .		-		*
 
-Mar		-		(A1*
+Mar		-		*
 (		-		*
 multiple		-		*
 antibiotic		-		*
-resistant		-		*)
+resistant		-		*
 )		-		*
 mutants		-		*
 of		-		*
 Escherichia		-		*
 coli		-		*
-express		express		(V*)
-chromosomally		-		(A5*)
+express		express		*
+chromosomally		-		*
 mediated		-		*
 resistance		-		*
 to		-		*
@@ -2228,11 +2228,11 @@ IR1		-		*
 is		-		*
 responsible		-		*
 for		-		*
-activation		activate		(V*)
+activation		activate		*
 of		-		*
-the		-		(A0*
+the		-		*
 hyc		-		*
-operon		-		*)
+operon		-		*
 ,		-		*
 that		-		*
 within		-		*
@@ -2262,7 +2262,7 @@ the		-		*
 DNA		-		*
 template		-		*
 is		-		*
-packaged		package		(V*)
+packaged		package		*
 into		-		*
 chromatin		-		*
 .		-		*
@@ -2286,9 +2286,9 @@ catabolism		-		*
 whose		-		*
 genes		-		*
 are		-		*
-regulated		regulate		(V*)
+regulated		regulate		*
 by		-		*
-GntR		-		(A1*)
+GntR		-		*
 as		-		*
 a		-		*
 repressor		-		*
@@ -2301,22 +2301,22 @@ activator		-		*
 respectively		-		*
 .		-		*
 
-ArgR-independent		-		(A5*)		*
-induction		induce		(V*)		*
+ArgR-independent		-		*		*
+induction		induce		*		*
 and		-		*		*
 ArgR-dependent		-		*		*
-superinduction		superinduce		*		(V*)
+superinduction		superinduce		*		*
 of		-		*		*
-the		-		*		(A0*
+the		-		*		*
 astCADBE		-		*		*
-operon		-		*		*)
+operon		-		*		*
 in		-		*		*
 Escherichia		-		*		*
 coli		-		*		*
 .		-		*		*
 
 P1		-		*
-transduction		transduction		(V*)
+transduction		transduction		*
 of		-		*
 marA		-		*
 :		-		*
@@ -2338,10 +2338,10 @@ component		-		*
 hRPC39		-		*
 )		-		*
 of		-		*
-this		-		(A0*
-subcomplex		-		*)
-interacts		interact		(V*)
-physically		-		(A5*)
+this		-		*
+subcomplex		-		*
+interacts		interact		*
+physically		-		*
 with		-		*
 both		-		*
 hTBP		-		*
@@ -2361,10 +2361,10 @@ factor		-		*
 IIIB		-		*
 .		-		*
 
-TFIIB		-		(A1*)
-binds		bind		(V*)
-FREAC-2		-		(A0*
-close		-		*)
+TFIIB		-		*
+binds		bind		*
+FREAC-2		-		*
+close		-		*
 to		-		*
 the		-		*
 cleft		-		*
@@ -2375,13 +2375,13 @@ globular		-		*
 domains		-		*
 .		-		*
 
-The		-		(A1*
+The		-		*
 other		-		*
 IRF		-		*
 family		-		*
-proteins		-		*)
-bind		bind		(V*)
-DNA		-		(A0*)
+proteins		-		*
+bind		bind		*
+DNA		-		*
 with		-		*
 a		-		*
 specificity		-		*
@@ -2397,7 +2397,7 @@ gamma		-		*
 .		-		*
 
 Although		-		*
-Stat2		-		(A0*)
+Stat2		-		*
 is		-		*
 a		-		*
 potent		-		*
@@ -2406,8 +2406,8 @@ transactivator		-		*
 it		-		*
 does		-		*
 not		-		*
-interact		interact		(V*)
-stably		-		(A5*)
+interact		interact		*
+stably		-		*
 with		-		*
 DNA		-		*
 in		-		*
@@ -2436,10 +2436,10 @@ human		-		*
 promoter		-		*
 ,		-		*
 demonstrate		-		*
-tissue-specific		-		(A0*
+tissue-specific		-		*
 reporter		-		*
-gene		-		*)
-expression		express		(V*)
+gene		-		*
+expression		express		*
 in		-		*
 myeloid		-		*
 cell		-		*
@@ -2458,13 +2458,13 @@ cells		-		*
 cells		-		*
 .		-		*
 
-The		-		(A5*)
-binding		bind		(V*)
+The		-		*
+binding		bind		*
 of		-		*
-GntR		-		(A0*
+GntR		-		*
 to		-		*
 these		-		*
-sites		-		*)
+sites		-		*
 was		-		*
 proven		-		*
 in		-		*
@@ -2502,12 +2502,12 @@ dyn2		-		*
 )		-		*
 can		-		*
 also		-		*
-function		function		(V*)
-in		-		(A2*
+function		function		*
+in		-		*
 a		-		*
 signal		-		*
 transduction		-		*
-pathway		-		*)
+pathway		-		*
 (		-		*
 s		-		*
 )		-		*
@@ -2518,14 +2518,14 @@ of		-		*		*
 nitrate		-		*		*
 respiration		-		*		*
 on		-		*		*
-expression		express		(V*)		*
+expression		express		*		*
 of		-		*		*
 the		-		*		*
 Arc-controlled		-		*		*
 operons		-		*		*
-encoding		encode		*		(V*)
-succinate		-		*		(A0*
-dehydrogenase		-		*		*)
+encoding		encode		*		*
+succinate		-		*		*
+dehydrogenase		-		*		*
 and		-		*		*
 flavin-linked		-		*		*
 L-lactate		-		*		*
@@ -2536,16 +2536,16 @@ We		-		*
 now		-		*
 show		-		*
 that		-		*
-NarL		-		(A1*)
+NarL		-		*
 can		-		*
 displace		-		*
 IHF		-		*
-bound		bound		(V*)
+bound		bound		*
 at		-		*
-the		-		(A0*
+the		-		*
 IHF		-		*
 I		-		*
-site		-		*)
+site		-		*
 ,		-		*
 but		-		*
 IHF		-		*
@@ -2559,29 +2559,29 @@ NarL		-		*
 
 Regulation		-		*		*
 of		-		*		*
-expression		express		(V*)		*
+expression		express		*		*
 of		-		*		*
-the		-		(A0*		*
+the		-		*		*
 divergent		-		*		*
 ulaG		-		*		*
 and		-		*		*
-ulaABCDEF		-		*		(A0*
-operons		-		*)		*)
-involved		involve		*		(V*)
-in		-		*		(A2*
+ulaABCDEF		-		*		*
+operons		-		*		*
+involved		involve		*		*
+in		-		*		*
 LaAscorbate		-		*		*
 dissimilation		-		*		*
 in		-		*		*
 Escherichia		-		*		*
-coli		-		*		*)
+coli		-		*		*
 .		-		*		*
 
-Expression		express		(V*)
+Expression		express		*
 of		-		*
-a		-		(A0*
+a		-		*
 lacZ		-		*
 reporter		-		*
-gene		-		*)
+gene		-		*
 under		-		*
 the		-		*
 control		-		*
@@ -2614,24 +2614,24 @@ ion		-		*
 concentrations		-		*
 .		-		*
 
-OmpR		-		(A0*)		*
+OmpR		-		*		*
 is		-		*		*
 a		-		*		*
 DNA-binding		-		*		*
 protein		-		*		*
 which		-		*		*
-acts		act		(V*)		*
-as		-		(A2*		*
+acts		act		*		*
+as		-		*		*
 both		-		*		*
 an		-		*		*
-activator		-		*)		*
+activator		-		*		*
 and		-		*		*
 a		-		*		*
 repressor		-		*		*
 to		-		*		*
 control		-		*		*
-ompF		-		*		(A0*)
-transcription		transcription		*		(V*)
+ompF		-		*		*
+transcription		transcription		*		*
 .		-		*		*
 
 Role		-		*
@@ -2643,23 +2643,23 @@ a		-		*
 positive		-		*
 regulator		-		*
 of		-		*
-the		-		(A5*
+the		-		*
 glucocorticoid		-		*
 receptor		-		*
-transcriptional		-		*)
-activation		activate		(V*)
+transcriptional		-		*
+activation		activate		*
 .		-		*
 
 We		-		*		*
 show		-		*		*
 that		-		*		*
-expression		express		(V*)		*
+expression		express		*		*
 of		-		*		*
-hTAF		-		(A0*		*
+hTAF		-		*		*
 (		-		*		*
 II		-		*		*
 )		-		*		*
-**NUM**		-		*)		*
+**NUM**		-		*		*
 in		-		*		*
 mammalian		-		*		*
 cells		-		*		*
@@ -2667,11 +2667,11 @@ strongly		-		*		*
 and		-		*		*
 selectively		-		*		*
 potentiates		-		*		*
-transcriptional		-		*		(A5*)
-stimulation		stimulate		*		(V*)
+transcriptional		-		*		*
+stimulation		stimulate		*		*
 by		-		*		*
-the		-		*		(A1*
-activation		-		*		*)
+the		-		*		*
+activation		-		*		*
 function-2		-		*		*
 (		-		*		*
 AF-2		-		*		*
@@ -2751,7 +2751,7 @@ termed		-		*
 SNURF		-		*
 ,		-		*
 that		-		*
-interacts		interact		(V*)
+interacts		interact		*
 with		-		*
 AR		-		*
 in		-		*
@@ -2774,15 +2774,15 @@ act		-		*		*
 to		-		*		*
 repress		-		*		*
 the		-		*		*
-transcription		transcription		(V*)		*
+transcription		transcription		*		*
 of		-		*		*
 E2F		-		*		*
 responsive		-		*		*
 genes		-		*		*
 by		-		*		*
-countering		counter		*		(V*)
-the		-		*		(A0*
-activity		-		*		*)
+countering		counter		*		*
+the		-		*		*
+activity		-		*		*
 of		-		*		*
 the		-		*		*
 other		-		*		*
@@ -2822,8 +2822,8 @@ corresponding		-		*
 pair		-		*
 genomic		-		*
 fragment		-		*
-encoding		encode		(V*)
-FREAC-4		-		(A5*)
+encoding		encode		*
+FREAC-4		-		*
 ,		-		*
 a		-		*
 member		-		*
@@ -2843,8 +2843,8 @@ complex		-		*		*
 was		-		*		*
 shown		-		*		*
 to		-		*		*
-stimulate		-		(A5*)		*
-transcription		transcription		(V*)		*
+stimulate		-		*		*
+transcription		transcription		*		*
 from		-		*		*
 Pmcc		-		*		*
 :		-		*		*
@@ -2869,8 +2869,8 @@ P		-		*		*
 (		-		*		*
 mcc		-		*		*
 )		-		*		*
--lac		-		*		(A0*)
-expression		express		*		(V*)
+-lac		-		*		*
+expression		express		*		*
 .		-		*		*
 
 The		-		*
@@ -2882,9 +2882,9 @@ a		-		*
 mechanism		-		*
 whereby		-		*
 altered		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
-Bcl-3		-		(A0*)
+Bcl-3		-		*
 leads		-		*
 to		-		*
 tumorigenic		-		*
@@ -2895,10 +2895,10 @@ Previous		-		*
 studies		-		*
 indicated		-		*
 that		-		*
-its		-		(A0*
+its		-		*
 complementary		-		*
 expression		-		*
-together		-		*)
+together		-		*
 with		-		*
 MAP1B		-		*
 during		-		*
@@ -2906,7 +2906,7 @@ nervous		-		*
 system		-		*
 development		-		*
 is		-		*
-regulated		regulate		(V*)
+regulated		regulate		*
 at		-		*
 the		-		*
 transcriptional		-		*
@@ -2948,11 +2948,11 @@ the		-		*		*
 enhancer		-		*		*
 )		-		*		*
 on		-		*		*
-expression		express		(V*)		*
+expression		express		*		*
 of		-		*		*
-neighboring		-		(A0*		*
+neighboring		-		*		*
 host		-		*		*
-genes		-		*)		*
+genes		-		*		*
 we		-		*		*
 have		-		*		*
 screened		-		*		*
@@ -2962,17 +2962,17 @@ genes		-		*		*
 that		-		*		*
 are		-		*		*
 both		-		*		*
-overexpressed		overexpress		*		(V*)
+overexpressed		overexpress		*		*
 and		-		*		*
 adjacent		-		*		*
 to		-		*		*
-integrated		-		*		(A0*
+integrated		-		*		*
 HBV		-		*		*
-sequences		-		*		*)
-in		-		*		(A2*
+sequences		-		*		*
+in		-		*		*
 hepatocellular		-		*		*
 carcinoma		-		*		*
-cells		-		*		*)
+cells		-		*		*
 .		-		*		*
 
 Northern		-		*
@@ -2992,9 +2992,9 @@ messenger		-		*
 RNAs		-		*
 was		-		*
 predominantly		-		*
-expressed		express		(V*)
-in		-		(A2*
-heart		-		*)
+expressed		express		*
+in		-		*
+heart		-		*
 ,		-		*
 although		-		*
 weak		-		*
@@ -3012,12 +3012,12 @@ and		-		*
 leukocyte		-		*
 .		-		*
 
-The		-		(A1*
-gene		-		*)
-encodes		encode		(V*)
-a		-		(A0*
+The		-		*
+gene		-		*
+encodes		encode		*
+a		-		*
 predicted		-		*
-protein		-		*)
+protein		-		*
 of		-		*
 **NUM**		-		*
 amino		-		*
@@ -3050,17 +3050,17 @@ reverse		-		*
 of		-		*
 that		-		*
 of		-		*
-GalR		-		(A1*)
+GalR		-		*
 ,		-		*
 which		-		*
-binds		bind		(V*)
+binds		bind		*
 most		-		*
 strongly		-		*
 to		-		*
 the		-		*
 operator		-		*
 of		-		*
-galP		-		(A0*)
+galP		-		*
 and		-		*
 most		-		*
 weakly		-		*
@@ -3070,12 +3070,12 @@ of		-		*
 mgl		-		*
 .		-		*
 
-The		-		(A1*
+The		-		*
 gene		-		*
-yjfQ		-		*)
-encodes		encode		(V*)
-the		-		(A0*
-repressor		-		*)
+yjfQ		-		*
+encodes		encode		*
+the		-		*
+repressor		-		*
 of		-		*
 the		-		*
 yjfR-X		-		*
@@ -3095,8 +3095,8 @@ Escherichia		-		*
 coli		-		*
 .		-		*
 
-Collaborative		-		(A5*)
-regulation		regulation		(V*)
+Collaborative		-		*
+regulation		regulation		*
 of		-		*
 Escherichia		-		*
 coli		-		*
@@ -3124,12 +3124,12 @@ a		-		*		*
 reporter		-		*		*
 system		-		*		*
 that		-		*		*
-expresses		express		(V*)		*
+expresses		express		*		*
 green		-		*		*
 fluorescent		-		*		*
 protein		-		*		*
 (		-		*		*
-GFP		-		(A0*)		*
+GFP		-		*		*
 )		-		*		*
 from		-		*		*
 the		-		*		*
@@ -3142,9 +3142,9 @@ able		-		*		*
 to		-		*		*
 examine		-		*		*
 the		-		*		*
-interaction		interact		*		(V*)
+interaction		interact		*		*
 of		-		*		*
-Taz		-		*		(A0*)
+Taz		-		*		*
 with		-		*		*
 all		-		*		*
 **NUM**		-		*		*
@@ -3153,15 +3153,15 @@ amino		-		*		*
 acids		-		*		*
 .		-		*		*
 
-Overexpression		overexpress		(V*)		*		*		*
+Overexpression		overexpress		*		*		*		*
 of		-		*		*		*		*
-yhiE		-		(A0*)		*		*		*
+yhiE		-		*		*		*		*
 ,		-		*		*		*		*
 similarly		-		*		*		*		*
 to		-		*		*		*		*
-overexpression		overexpression		*		(V*)		*		*
+overexpression		overexpression		*		*		*		*
 of		-		*		*		*		*
-gadX		-		*		(A0*)		*		*
+gadX		-		*		*		*		*
 ,		-		*		*		*		*
 a		-		*		*		*		*
 known		-		*		*		*		*
@@ -3169,7 +3169,7 @@ regulator		-		*		*		*		*
 of		-		*		*		*		*
 glutamate		-		*		*		*		*
 decarboxylase		-		*		*		*		*
-expression		express		*		*		(V*)		*
+expression		express		*		*		*		*
 ,		-		*		*		*		*
 leads		-		*		*		*		*
 to		-		*		*		*		*
@@ -3192,16 +3192,16 @@ is		-		*		*		*		*
 a		-		*		*		*		*
 regulator		-		*		*		*		*
 of		-		*		*		*		*
-gene		-		*		*		*		(A0*)
-expression		express		*		*		*		(V*)
+gene		-		*		*		*		*
+expression		express		*		*		*		*
 in		-		*		*		*		*
 the		-		*		*		*		*
 acid		-		*		*		*		*
 response		-		*		*		*		*
 .		-		*		*		*		*
 
-Lrp		-		(A1*)
-binds		bind		(V*)
+Lrp		-		*
+binds		bind		*
 specifically		-		*
 to		-		*
 the		-		*
@@ -3230,12 +3230,12 @@ opposite		-		*		*
 regulation		-		*		*
 of		-		*		*
 the		-		*		*
-transcription		transcription		(V*)		*
+transcription		transcription		*		*
 of		-		*		*
-the		-		(A0*		*
+the		-		*		*
 two		-		*		*
 HU		-		*		*
-genes		-		*)		*
+genes		-		*		*
 is		-		*		*
 reflected		-		*		*
 at		-		*		*
@@ -3244,7 +3244,7 @@ protein		-		*		*
 level		-		*		*
 signifying		-		*		*
 that		-		*		*
-changes		change		*		(V*)
+changes		change		*		*
 in		-		*		*
 the		-		*		*
 composition		-		*		*
@@ -3267,14 +3267,14 @@ E		-		*		*
 coli		-		*		*
 displaying		-		*		*
 altered		-		*		*
-regulation		regulation		(V*)		*
+regulation		regulation		*		*
 of		-		*		*
-the		-		(A0*		*
+the		-		*		*
 recA		-		*		*
-gene		-		*)		(A0*)
+gene		-		*		*
 was		-		*		*
-isolated		isolate		*		(V*)
-as		-		*		(A2*
+isolated		isolate		*		*
+as		-		*		*
 a		-		*		*
 revertant		-		*		*
 of		-		*		*
@@ -3282,7 +3282,7 @@ a		-		*		*
 lexA3		-		*		*
 recA200		-		*		*
 double		-		*		*
-mutant		-		*		*)
+mutant		-		*		*
 which		-		*		*
 showed		-		*		*
 improved		-		*		*
@@ -3312,19 +3312,19 @@ degradation		-		*		*
 pathway		-		*		*
 and		-		*		*
 that		-		*		*
-inhibition		-		*		(A1*)
+inhibition		-		*		*
 of		-		*		*
 proteasomal		-		*		*
 activity		-		*		*
 induces		-		*		*
-up-regulation		upregulate		(V*)		*
+up-regulation		upregulate		*		*
 of		-		*		*
-GR		-		(A0*)		*
+GR		-		*		*
 and		-		*		*
-enhances		enhance		*		(V*)
-the		-		*		(A0*
+enhances		enhance		*		*
+the		-		*		*
 transcriptional		-		*		*
-activity		-		*		*)
+activity		-		*		*
 of		-		*		*
 GR		-		*		*
 .		-		*		*
@@ -3333,26 +3333,26 @@ In		-		*		*		*
 Escherichia		-		*		*		*
 coli		-		*		*		*
 ,		-		*		*		*
-the		-		(A0*		*		*
+the		-		*		*		*
 transcription		-		*		*		*
 factor		-		*		*		*
 sigma		-		*		*		*
-s		-		*)		*		*
+s		-		*		*		*
 ,		-		*		*		*
-encoded		encode		(V*)		*		*
+encoded		encode		*		*		*
 by		-		*		*		*
-rpoS		-		(A1*)		*		*
+rpoS		-		*		*		*
 ,		-		*		*		*
 controls		-		*		*		*
 the		-		*		*		*
-expression		express		*		(V*)		*
+expression		express		*		*		*
 of		-		*		*		*
 a		-		*		*		*
 large		-		*		*		*
 number		-		*		*		*
 of		-		*		*		*
-genes		-		*		*		(A0*)
-involved		involve		*		*		(V*)
+genes		-		*		*		*
+involved		involve		*		*		*
 in		-		*		*		*
 cellular		-		*		*		*
 responses		-		*		*		*
@@ -3400,12 +3400,12 @@ transcription		-		*		*
 studies		-		*		*
 establish		-		*		*
 that		-		*		*
-cloned		-		(A1*		*
-hUBF		-		*)		*
-encodes		encode		(V*)		*
-a		-		(A0*		*
+cloned		-		*		*
+hUBF		-		*		*
+encodes		encode		*		*
+a		-		*		*
 nucleolar		-		*		*
-factor		-		*)		*
+factor		-		*		*
 that		-		*		*
 binds		-		*		*
 specifically		-		*		*
@@ -3422,8 +3422,8 @@ rRNA		-		*		*
 gene		-		*		*
 promoter		-		*		*
 to		-		*		*
-activate		activate		*		(V*)
-transcription		-		*		(A0*)
+activate		activate		*		*
+transcription		-		*		*
 in		-		*		*
 a		-		*		*
 binding		-		*		*
@@ -3443,8 +3443,8 @@ of		-		*
 the		-		*
 C-terminal		-		*
 coding		-		*
-region		-		(A1*)
-encodes		encode		(V*)
+region		-		*
+encodes		encode		*
 the		-		*
 C-terminal		-		*
 portion		-		*
@@ -3483,12 +3483,12 @@ sex-determining		-		*
 region		-		*
 Y		-		*
 )		-		*
-gene		-		(A1*)
-encodes		encode		(V*)
-a		-		(A0*
+gene		-		*
+encodes		encode		*
+a		-		*
 transcription		-		*
 factor		-		*
-characterized		-		*)
+characterized		-		*
 by		-		*
 a		-		*
 DNA-binding		-		*
@@ -3515,9 +3515,9 @@ degrees		-		*
 C		-		*
 )		-		*
 ,		-		*
-the		-		(A1*
-transcripts		-		*)
-reappeared		reappear		(V*)
+the		-		*
+transcripts		-		*
+reappeared		reappear		*
 coordinately		-		*
 about		-		*
 **NUM**		-		*
@@ -3562,7 +3562,7 @@ the		-		*
 melAB		-		*
 promoter		-		*
 is		-		*
-activated		activate		(V*)
+activated		activate		*
 .		-		*
 
 To		-		*
@@ -3597,9 +3597,9 @@ described		-		*
 here		-		*
 ,		-		*
 which		-		*
-encodes		encode		(V*)
-a		-		(A0*
-protein		-		*)
+encodes		encode		*
+a		-		*
+protein		-		*
 of		-		*
 **NUM**		-		*
 ,		-		*
@@ -3616,9 +3616,9 @@ of		-		*
 kDa		-		*
 .		-		*
 
-Recombinant		-		(A1*
+Recombinant		-		*
 ISGF3		-		*
-gamma		-		*)
+gamma		-		*
 ,		-		*
 like		-		*
 the		-		*
@@ -3632,38 +3632,38 @@ cell		-		*
 ISGF3		-		*
 alpha		-		*
 to		-		*
-form		form		(V*)
-the		-		(A0*
+form		form		*
+the		-		*
 mature		-		*
 ISGF3		-		*
 DNA-binding		-		*
-complex		-		*)
+complex		-		*
 .		-		*
 
-IHF		-		(A1*)		(A1*)
-binds		bind		(V*)		*
+IHF		-		*		*
+binds		bind		*		*
 to		-		*		*
-ompC		-		(A0*		*
-DNA		-		*)		*
+ompC		-		*		*
+DNA		-		*		*
 and		-		*		*
-protects		protect		*		(V*)
-a		-		*		(A0*
-region		-		*		*)
-of		-		*		(A2*
+protects		protect		*		*
+a		-		*		*
+region		-		*		*
+of		-		*		*
 **NUM**		-		*		*
 base		-		*		*
 pairs		-		*		*
 located		-		*		*
-upstream		-		*		*)
+upstream		-		*		*
 from		-		*		*
 the		-		*		*
 ompC		-		*		*
 promoters		-		*		*
 .		-		*		*
 
-Gluconate-specific		-		(A0*		*
+Gluconate-specific		-		*		*
 uptake		-		*		*
-activity		-		*)		*
+activity		-		*		*
 was		-		*		*
 observed		-		*		*
 with		-		*		*
@@ -3676,15 +3676,15 @@ clone		-		*		*
 ,		-		*		*
 which		-		*		*
 was		-		*		*
-enhanced		enhance		(V*)		*
+enhanced		enhance		*		*
 by		-		*		*
-the		-		(A1*		*
+the		-		*		*
 presence		-		*		*
 of		-		*		*
-gntK		-		*)		(A1*)
-encoding		encode		*		(V*)
-gluconate		-		*		(A0*
-kinase		-		*		*)
+gntK		-		*		*
+encoding		encode		*		*
+gluconate		-		*		*
+kinase		-		*		*
 .		-		*		*
 
 The		-		*		*
@@ -3696,26 +3696,26 @@ Escherichia		-		*		*
 coli		-		*		*
 negatively		-		*		*
 regulates		-		*		*
-transcription		transcription		(V*)		(A1*
+transcription		transcription		*		*
 of		-		*		*
-ompC		-		(A0*		*
+ompC		-		*		*
 and		-		*		*
-micF		-		*)		*)
+micF		-		*		*
 and		-		*		*
 positively		-		*		*
-regulates		regulate		*		(V*)
+regulates		regulate		*		*
 translation		-		*		*
 of		-		*		*
 ompF		-		*		*
 .		-		*		*
 
-Binding		bind		(V*)		*
+Binding		bind		*		*
 of		-		*		*
-XylR		-		(A0*		*
+XylR		-		*		*
 to		-		*		*
 the		-		*		*
 xyl		-		*		*
-promoter		-		*)		*
+promoter		-		*		*
 was		-		*		*
 enhanced		-		*		*
 by		-		*		*
@@ -3729,19 +3729,19 @@ that		-		*		*
 transcription		-		*		*
 was		-		*		*
 positively		-		*		*
-regulated		regulate		*		(V*)
+regulated		regulate		*		*
 by		-		*		*
-XylR		-		*		(A1*)
+XylR		-		*		*
 .		-		*		*
 
 Features		-		*		*
 of		-		*		*
-the		-		(A1*		*
-strain		-		*)		*
-carrying		carry		(V*)		*
-the		-		(A0*		*
+the		-		*		*
+strain		-		*		*
+carrying		carry		*		*
+the		-		*		*
 cpxA101		-		*		*
-mutation		-		*)		*
+mutation		-		*		*
 are		-		*		*
 a		-		*		*
 reduced		-		*		*
@@ -3753,16 +3753,16 @@ and		-		*		*
 low		-		*		*
 levels		-		*		*
 of		-		*		*
-csgA		-		*		(A5*)
-transcription		transcription		*		(V*)
+csgA		-		*		*
+transcription		transcription		*		*
 .		-		*		*
 
-The		-		(A1*
+The		-		*
 two		-		*
 MelR		-		*
 binding		-		*
-sites		-		*)
-required		require		(V*)
+sites		-		*
+required		require		*
 for		-		*
 this		-		*
 optimal		-		*
@@ -3781,10 +3781,10 @@ eleven		-		*
 mutants		-		*
 partially		-		*
 affected		-		*
-activin		-		(A1*)
-binding		bind		(V*)
+activin		-		*
+binding		bind		*
 to		-		*
-ALK4		-		(A0*)
+ALK4		-		*
 .		-		*
 
 As		-		*
@@ -3827,11 +3827,11 @@ by		-		*
 preventing		-		*
 a		-		*
 productive		-		*
-interaction		interact		(V*)
+interaction		interact		*
 between		-		*
-the		-		(A0*
+the		-		*
 enhancer-bound		-		*
-activator		-		*)
+activator		-		*
 and		-		*
 polymerase		-		*
 .		-		*
@@ -3854,21 +3854,21 @@ operon		-		*
 fusion		-		*
 in		-		*
 which		-		*
-the		-		(A0*
+the		-		*
 production		-		*
 of		-		*
-beta-galactosidase		-		*)
+beta-galactosidase		-		*
 was		-		*
-regulated		regulate		(V*)
+regulated		regulate		*
 by		-		*
-the		-		(A1*
+the		-		*
 sodA		-		*
-promoter		-		*)
+promoter		-		*
 .		-		*
 
-Several		-		(A1*		*
+Several		-		*		*
 other		-		*		*
-genes		-		*)		*
+genes		-		*		*
 including		-		*		*
 the		-		*		*
 sdhA-D		-		*		*
@@ -3879,8 +3879,8 @@ and		-		*		*
 fumA		-		*		*
 genes		-		*		*
 ,		-		*		*
-encoding		encode		(V*)		*
-key		-		(A0*)		*
+encoding		encode		*		*
+key		-		*		*
 constituents		-		*		*
 of		-		*		*
 the		-		*		*
@@ -3893,11 +3893,11 @@ be		-		*		*
 repressed		-		*		*
 by		-		*		*
 the		-		*		*
-loss		lose		*		(V*)
+loss		lose		*		*
 of		-		*		*
-both		-		*		(A0*
+both		-		*		*
 transcription		-		*		*
-factors		-		*		*)
+factors		-		*		*
 .		-		*		*
 
 PA-coenzyme		-		*
@@ -3912,13 +3912,13 @@ PA		-		*
 ,		-		*
 specifically		-		*
 inhibited		-		*
-binding		bind		(V*)
+binding		bind		*
 of		-		*
-PaaX		-		(A0*
+PaaX		-		*
 to		-		*
 the		-		*
 target		-		*
-sequences		-		*)
+sequences		-		*
 ,		-		*
 thus		-		*
 confirming		-		*
@@ -3954,13 +3954,13 @@ compound		-		*
 We		-		*
 show		-		*
 that		-		*
-the		-		(A1*
+the		-		*
 cAMP-CRP		-		*
 activator		-		*
-complex		-		*)
-recognizes		recognize		(V*)
-two		-		(A0*
-sites		-		*)
+complex		-		*
+recognizes		recognize		*
+two		-		*
+sites		-		*
 in		-		*
 tsx-p2		-		*
 that		-		*
@@ -3999,7 +3999,7 @@ bp		-		*
 Alteration		-		*		*
 by		-		*		*
 base		-		*		*
-substitutions		substitute		(V*)		*
+substitutions		substitute		*		*
 of		-		*		*
 any		-		*		*
 of		-		*		*
@@ -4017,8 +4017,8 @@ fusion		-		*		*
 dramatically		-		*		*
 reduces		-		*		*
 TorR-dependent		-		*		*
-torC		-		*		(A0*)
-expression		express		*		(V*)
+torC		-		*		*
+expression		express		*		*
 .		-		*		*
 
 These		-		*
@@ -4030,7 +4030,7 @@ response		-		*
 regulator		-		*
 ArcA		-		*
 regulates		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
 enzyme		-		*
 IICB		-		*
@@ -4074,9 +4074,9 @@ bind		-		*
 to		-		*
 Trip230		-		*
 ,		-		*
-inhibits		inhibit		(V*)
-such		-		(A0*
-activity		-		*)
+inhibits		inhibit		*
+such		-		*
+activity		-		*
 .		-		*
 
 We		-		*		*
@@ -4087,19 +4087,19 @@ and		-		*		*
 human		-		*		*
 cDNAs		-		*		*
 that		-		*		*
-encode		encode		(V*)		*
-CP2		-		(A0*)		*
+encode		encode		*		*
+CP2		-		*		*
 ,		-		*		*
 a		-		*		*
 cellular		-		*		*
 transcription		-		*		*
 factor		-		*		*
 that		-		*		*
-interacts		interact		*		(V*)
+interacts		interact		*		*
 with		-		*		*
-the		-		*		(A6*
+the		-		*		*
 alpha-globin		-		*		*
-promoter		-		*		*)
+promoter		-		*		*
 as		-		*		*
 well		-		*		*
 as		-		*		*
@@ -4112,24 +4112,24 @@ promoter		-		*		*
 elements		-		*		*
 .		-		*		*
 
-The		-		(A1*		*
+The		-		*		*
 purR		-		*		*
-gene		-		*)		*
-encodes		encode		(V*)		*
-a		-		(A0*		*
+gene		-		*		*
+encodes		encode		*		*
+a		-		*		*
 repressor		-		*		*
 (		-		*		*
-PurR		-		*)		*
+PurR		-		*		*
 )		-		*		*
 controlling		-		*		*
 the		-		*		*
-synthesis		synthesize		*		(V*)
+synthesis		synthesize		*		*
 of		-		*		*
-the		-		*		(A0*
-enzymes		-		*		*)
-of		-		*		(A2*
+the		-		*		*
+enzymes		-		*		*
+of		-		*		*
 purine		-		*		*
-biosynthesis		-		*		*)
+biosynthesis		-		*		*
 .		-		*		*
 
 Because		-		*
@@ -4161,10 +4161,10 @@ regulatory		-		*
 mechanisms		-		*
 controls		-		*
 the		-		*
-expression		express		(V*)
+expression		express		*
 of		-		*
-mal		-		(A0*
-genes		-		*)
+mal		-		*
+genes		-		*
 ,		-		*
 the		-		*
 activity		-		*
@@ -4187,16 +4187,16 @@ In		-		*		*
 addition		-		*		*
 ,		-		*		*
 both		-		*		*
-himA		-		(A1*		*
+himA		-		*		*
 and		-		*		*
-himD		-		*)		*
+himD		-		*		*
 lesions		-		*		*
-caused		cause		(V*)		*
-a		-		(A0*		*
+caused		cause		*		*
+a		-		*		*
 sevenfold		-		*		*
-reduction		-		*)		*
+reduction		-		*		*
 in		-		*		*
-expression		express		*		(V*)
+expression		express		*		*
 of		-		*		*
 a		-		*		*
 phi		-		*		*
@@ -4223,7 +4223,7 @@ different		-		*
 modes		-		*
 of		-		*
 transcription		-		*
-repression		repress		(V*)
+repression		repress		*
 of		-		*
 the		-		*
 Escherichia		-		*
@@ -4231,12 +4231,12 @@ coli		-		*
 acetate		-		*
 operon		-		*
 by		-		*
-IclR		-		(A1*)
+IclR		-		*
 .		-		*
 
-Affinity-purified		-		(A0*		*
+Affinity-purified		-		*		*
 human		-		*		*
-TFIIIC		-		*)		*
+TFIIIC		-		*		*
 from		-		*		*
 an		-		*		*
 epitope-tagged		-		*		*
@@ -4246,15 +4246,15 @@ line		-		*		*
 is		-		*		*
 active		-		*		*
 in		-		*		*
-binding		bind		(V*)		*
+binding		bind		*		*
 to		-		*		*
 and		-		*		*
 in		-		*		*
-transcription		transcription		*		(V*)
+transcription		transcription		*		*
 of		-		*		*
-the		-		*		(A0*
+the		-		*		*
 VA1		-		*		*
-gene		-		*		*)
+gene		-		*		*
 in		-		*		*
 vitro		-		*		*
 .		-		*		*
@@ -4274,12 +4274,12 @@ DNA-binding		-		*
 protein		-		*
 involved		-		*
 in		-		*
-gene		-		(A0*)
-expression		express		(V*)
-and		-		(A2*
+gene		-		*
+expression		express		*
+and		-		*
 other		-		*
 cellular		-		*
-functions		-		*)
+functions		-		*
 in		-		*
 E		-		*
 .		-		*
@@ -4318,9 +4318,9 @@ in		-		*
 the		-		*
 mechanisms		-		*
 of		-		*
-activation		activate		(V*)
+activation		activate		*
 by		-		*
-CRP		-		(A1*)
+CRP		-		*
 ,		-		*
 alpha-CTD		-		*
 ,		-		*
@@ -4336,7 +4336,7 @@ that		-		*
 ArgR		-		*
 does		-		*
 not		-		*
-act		act		(V*)
+act		act		*
 as		-		*
 a		-		*
 transcriptional		-		*
@@ -4365,13 +4365,13 @@ PU		-		*		*		*
 .		-		*		*		*
 **NUM**		-		*		*		*
 and		-		*		*		*
-Spi-B		-		(A1*)		*		*
+Spi-B		-		*		*		*
 specifically		-		*		*		*
-transactivated		transactivate		(V*)		*		*
-a		-		(A4*		*		*
+transactivated		transactivate		*		*		*
+a		-		*		*		*
 minimal		-		*		*		*
-promoter		-		*)		*		*
-containing		contain		*		(V*)		*
+promoter		-		*		*		*
+containing		contain		*		*		*
 the		-		*		*		*
 PU		-		*		*		*
 .		-		*		*		*
@@ -4381,15 +4381,15 @@ site		-		*		*		*
 ,		-		*		*		*
 indicating		-		*		*		*
 that		-		*		*		*
-PU		-		*		*		(A1*
+PU		-		*		*		*
 .		-		*		*		*
-**NUM**		-		*		*		*)
+**NUM**		-		*		*		*
 can		-		*		*		*
-activate		activate		*		*		(V*)
-its		-		*		*		(A0*
+activate		activate		*		*		*
+its		-		*		*		*
 own		-		*		*		*
 promoter		-		*		*		*
-elements		-		*		*		*)
+elements		-		*		*		*
 in		-		*		*		*
 an		-		*		*		*
 autoregulatory		-		*		*		*
@@ -4419,8 +4419,8 @@ regulators		-		*
 of		-		*
 ptsHIcrr		-		*
 and		-		*
-ptsG		-		(A0*)
-expression		express		(V*)
+ptsG		-		*
+expression		express		*
 in		-		*
 response		-		*
 to		-		*
@@ -4446,13 +4446,13 @@ repressor		-		*
 for		-		*
 sigma		-		*
 s-dependent		-		*
-transcription		transcription		(V*)
+transcription		transcription		*
 of		-		*
-the		-		(A0*
+the		-		*
 Escherichia		-		*
 coli		-		*
 aidB		-		*
-gene		-		*)
+gene		-		*
 .		-		*
 
 In		-		*		*		*
@@ -4460,13 +4460,13 @@ vitro		-		*		*		*
 footprinting		-		*		*		*
 showed		-		*		*		*
 that		-		*		*		*
-cyclic		-		(A1*		*		*
-AMP-CRP		-		*)		*		*
-binds		bind		(V*)		*		*
+cyclic		-		*		*		*
+AMP-CRP		-		*		*		*
+binds		bind		*		*		*
 to		-		*		*		*
-a		-		(A0*		*		*
+a		-		*		*		*
 34-bp		-		*		*		*
-site		-		*)		*		*
+site		-		*		*		*
 centered		-		*		*		*
 at		-		*		*		*
 **NUM**		-		*		*		*
@@ -4485,9 +4485,9 @@ major		-		*		*		*
 transcripts		-		*		*		*
 that		-		*		*		*
 are		-		*		*		*
-inhibited		inhibit		*		(V*)		*
+inhibited		inhibit		*		*		*
 and		-		*		*		*
-activated		activate		*		*		(V*)
+activated		activate		*		*		*
 ,		-		*		*		*
 respectively		-		*		*		*
 ,		-		*		*		*
@@ -4499,21 +4499,21 @@ complex		-		*		*		*
 We		-		*		*
 have		-		*		*
 isolated		-		*		*
-a		-		(A1*		*
+a		-		*		*
 full-length		-		*		*
-cDNA		-		*)		*
-encoding		encode		(V*)		*
-a		-		(A0*		*
+cDNA		-		*		*
+encoding		encode		*		*
+a		-		*		*
 protein		-		*		*
 (		-		*		*
-ATBF1		-		*)		*
+ATBF1		-		*		*
 )		-		*		*
 that		-		*		*
-binds		bind		*		(V*)
+binds		bind		*		*
 to		-		*		*
-an		-		*		(A0*
+an		-		*		*
 AT-rich		-		*		*
-motif		-		*		*)
+motif		-		*		*
 in		-		*		*
 the		-		*		*
 human		-		*		*
@@ -4532,7 +4532,7 @@ shown		-		*
 to		-		*
 'fine		-		*
 tune'		-		*
-transcription		transcription		(V*)
+transcription		transcription		*
 of		-		*
 two		-		*
 genes		-		*
@@ -4549,21 +4549,21 @@ protein-folding		-		*
 activities		-		*
 .		-		*
 
-GadW		-		(A1*)		*
+GadW		-		*		*
 clearly		-		*		*
-represses		repress		(V*)		*
-gadX		-		(A0*)		*
+represses		repress		*		*
+gadX		-		*		*
 and		-		*		*
 ,		-		*		*
 in		-		*		*
 situations		-		*		*
 where		-		*		*
-GadX		-		*		(A1*)
+GadX		-		*		*
 is		-		*		*
 missing		-		*		*
 ,		-		*		*
-activates		activate		*		(V*)
-gadA		-		*		(A0*)
+activates		activate		*		*
+gadA		-		*		*
 and		-		*		*
 gadBC		-		*		*
 .		-		*		*
@@ -4576,11 +4576,11 @@ under		-		*
 those		-		*
 conditions		-		*
 ,		-		*
-the		-		(A0*
+the		-		*
 upstream		-		*
 promoter		-		*
-region		-		*)
-acts		act		(V*)
+region		-		*
+acts		act		*
 as		-		*
 a		-		*
 silencer		-		*
