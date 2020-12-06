@@ -768,7 +768,7 @@ class DSRL:
         metrics = self.conll_evaluate(dev_input, self.dev_sentences, self.cfg.dev_path)
         avg_loss = np.mean(np.asarray(all_losses))
 
-        msg = "avg loss {:06.7f}, eval acc: {:04.4f}".format(avg_loss, metrics["conll"])
+        msg = "avg loss {:06.7f}, eval acc: {:04.4f}, Precise:{:04.4f}, Recall: {:04.4f}".format(avg_loss, metrics["conll"], metrics["P"], metrics["R"])
         self.logger.info(msg)
 
         return avg_loss, metrics
